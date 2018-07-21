@@ -1,0 +1,310 @@
+city,before,after
+Aberdeen/SD,0,0
+Abilene/TX,0,0
+Adak/AK,0,0
+Agana/GU,0,0
+Aguadilla/PR,0,0
+Akron/OH,0,0
+Albany/GA,0,0
+Albany/NY,0,0
+Albuquerque/NM,0,0
+Alexandria/LA,0,0
+Allentown/PA,0,0
+Alpena/MI,0,0
+Amarillo/TX,0,0
+Anchorage/AK,0,0
+Appleton/WI,0,0
+Arcata/Eureka/CA,0,0
+Arlington/VA,0,0
+Asheville/NC,0,0
+Aspen/CO,166,148
+Atlanta/GA,10443,10287
+Atlantic City/NJ,100,100
+Augusta/GA,0,0
+Austin/TX,1514,1513
+Bakersfield/CA,0,0
+Baltimore/MD,2990,2870
+Bangor/ME,0,0
+Barrow/AK,0,0
+Baton Rouge/LA,0,0
+Beaumont/Port Arthur/TX,0,0
+Bellingham/WA,0,0
+Bemidji/MN,0,0
+Bethel/AK,0,0
+Billings/MT,0,0
+Binghamton/NY,0,0
+Birmingham/AL,0,0
+Bismarck/ND,0,0
+Bloomington/IL,0,0
+Boise/ID,466,468
+Boston/MA,3604,3680
+Bozeman/MT,0,0
+Brainerd/MN,0,0
+Bristol/TN,0,0
+Brownsville/TX,0,0
+Brunswick/GA,0,0
+Buffalo/NY,0,0
+Burbank/CA,0,0
+Burlington/VT,0,0
+Butte/MT,0,0
+Casper/WY,0,0
+Cedar City/UT,0,0
+Cedar Rapids/IA,0,0
+Chantilly/VA,0,0
+Charleston/SC,430,392
+Charleston/WV,0,0
+Charlotte Amalie/VI,0,0
+Charlotte/NC,0,0
+Charlottesville/VA,0,0
+Chattanooga/TN,0,0
+Chicago/IL,10939,10943
+Christiansted/VI,0,0
+Cleveland/OH,0,0
+Cody/WY,0,0
+College Station/TX,0,0
+Colorado Springs/CO,0,0
+Columbia/MO,0,0
+Columbia/SC,0,0
+Columbus-Starkville-West Point/MS,0,0
+Columbus/GA,0,0
+Columbus/OH,0,0
+Cordova/AK,0,0
+Corpus Christi/TX,0,0
+Covington/KY,0,0
+Dallas-Fort Worth/TX,0,0
+Dallas/TX,1900,1925
+Dayton/OH,0,0
+Daytona Beach/FL,58,58
+Deadhorse/AK,0,0
+Denver/CO,0,0
+Des Moines/IA,0,0
+Detroit/MI,3626,3718
+Devils Lake/ND,0,0
+Dillingham/AK,0,0
+Dothan/AL,0,0
+Duluth/MN,0,0
+Durango/CO,0,0
+Eagle/CO,0,0
+Eau Claire/WI,18,19
+El Paso/TX,0,0
+Elko/NV,0,0
+Elmira/NY,0,0
+Erie/PA,0,0
+Escanaba/MI,0,0
+Eugene/OR,0,0
+Evansville/IN,0,0
+Fairbanks/AK,0,0
+Fargo/ND,0,0
+Fayetteville/NC,0,0
+Fayetteville/Springdale/Rogers/AR,0,0
+Flagstaff/AZ,0,0
+Flint/MI,0,0
+Fort Smith/AR,0,0
+Fort Wayne/IN,0,0
+Fresno/CA,0,0
+Ft. Lauderdale/FL,0,0
+Ft. Myers/FL,0,0
+Gainesville/FL,0,0
+Garden City/KS,0,0
+Gillette/WY,0,0
+Grand Forks/ND,0,0
+Grand Island/NE,0,0
+Grand Junction/CO,0,0
+Grand Rapids/MI,324,337
+Great Falls/MT,0,0
+Green Bay/WI,0,0
+Greensboro/NC,0,0
+Greer/SC,0,0
+Gulfport-Biloxi/MS,0,0
+Gunnison/CO,0,0
+Gustavus/AK,0,0
+Hailey/ID,0,0
+Hancock/MI,0,0
+Harlingen/TX,0,0
+Harrisburg/PA,83,88
+Hattiesburg-Laurel/MS,0,0
+Hayden/CO,0,0
+Hays/KS,0,0
+Helena/MT,0,0
+Hibbing/MN,0,0
+Hilo/HI,0,0
+Hobbs/NM,0,0
+Honolulu/HI,0,0
+Houston/TX,5250,5012
+Huntsville/AL,0,0
+Hyannis/MA,0,0
+Idaho Falls/ID,0,0
+Indianapolis/IN,0,0
+International Falls/MN,0,0
+Iron Mountain/Kingsford/MI,0,0
+Islip/NY,0,0
+Ithaca/NY,0,0
+Jackson/MS,0,0
+Jackson/WY,0,0
+Jacksonville/FL,0,0
+Jacksonville/NC,0,0
+Jamestown/ND,0,0
+Joplin/MO,0,0
+Juneau/AK,0,0
+Kahului/HI,0,0
+Kailua/Kona/HI,0,0
+Kalamazoo/MI,0,0
+Kalispell/MT,0,0
+Kansas City/MO,1303,1271
+Ketchikan/AK,0,0
+Key West/FL,42,41
+Killeen/TX,0,0
+King Salmon/AK,0,0
+Knoxville/TN,0,0
+Kodiak/AK,0,0
+Kotzebue/AK,0,0
+La Crosse/WI,0,0
+Lafayette/LA,0,0
+Lake Charles/LA,0,0
+Lansing/MI,0,0
+Laramie/WY,0,0
+Laredo/TX,0,0
+Las Vegas/NV,4277,4325
+Latrobe/PA,0,0
+Lawton/OK,0,0
+Lewiston/ID,0,0
+Lexington/KY,0,0
+Lihue/HI,0,0
+Lincoln/NE,0,0
+Little Rock/AR,0,0
+Long Beach/CA,0,0
+Longview/TX,0,0
+Los Angeles/CA,6264,6304
+Louisville/KY,296,284
+Lubbock/TX,0,0
+Madison/WI,0,0
+Mammoth Lakes/CA,0,0
+Manchester/NH,0,0
+Manhattan/KS,0,0
+Marquette/MI,0,0
+Marthas Vineyard/MA,0,0
+McAllen/TX,0,0
+Medford/OR,0,0
+Melbourne/FL,0,0
+Memphis/TN,417,416
+Meridian/MS,0,0
+Miami/FL,1886,1822
+Midland/TX,147,148
+Milwaukee/WI,866,883
+Minneapolis/MN,0,0
+Minot/ND,0,0
+Missoula/MT,104,106
+Mobile/AL,0,0
+Moline/IL,0,0
+Monroe/LA,0,0
+Monterey/CA,0,0
+Montgomery/AL,0,0
+Montrose/CO,0,0
+Mosinee/WI,0,0
+Muskegon/MI,0,0
+Myrtle Beach/SC,0,0
+Nantucket/MA,0,0
+Nashville/TN,1591,1565
+New Bern/NC,0,0
+New Orleans/LA,1262,1246
+New York/NY,5311,5441
+Newark/NJ,0,0
+Newburgh/NY,0,0
+Newport News/VA,0,0
+Niagara Falls/NY,0,0
+Nome/AK,0,0
+Norfolk/VA,0,0
+North Bend/OR,0,0
+Oakland/CA,1446,1472
+Oklahoma City/OK,0,0
+Omaha/NE,0,0
+Ontario/CA,0,0
+Orlando/FL,3826,3457
+Paducah/KY,0,0
+Pago Pago/AS,0,0
+Palm Springs/CA,0,0
+Panama City/FL,0,0
+Pasco/WA,0,0
+Pellston/MI,0,0
+Pensacola/FL,0,0
+Peoria/IL,0,0
+Petersburg/AK,0,0
+Philadelphia/PA,2099,2080
+Phoenix/AZ,4283,4163
+Pittsburgh/PA,0,0
+Plattsburgh/NY,0,0
+Pocatello/ID,0,0
+Ponce/PR,0,0
+Portland/ME,0,0
+Portland/OR,1962,1890
+Providence/RI,0,0
+Pueblo/CO,0,0
+Raleigh/NC,1047,1058
+Rapid City/SD,0,0
+Redding/CA,0,0
+Redmond/OR,0,0
+Reno/NV,0,0
+Rhinelander/WI,0,0
+Richmond/VA,0,0
+Roanoke/VA,0,0
+Rochester/MN,0,0
+Rochester/NY,244,251
+Rock Springs/WY,0,0
+Roswell/NM,0,0
+Sacramento/CA,0,0
+Saginaw/MI,0,0
+Salt Lake City/UT,0,0
+San Angelo/TX,0,0
+San Antonio/TX,946,887
+San Diego/CA,2592,2550
+San Francisco/CA,5181,5445
+San Jose/CA,1418,1450
+San Juan/PR,0,0
+San Luis Obispo/CA,0,0
+Santa Ana/CA,0,0
+Santa Barbara/CA,0,0
+Santa Fe/NM,0,0
+Sarasota/FL,0,0
+Sault Ste. Marie/MI,0,0
+Savannah/GA,0,0
+Seattle/WA,4404,4381
+Shreveport/LA,0,0
+Sioux City/IA,0,0
+Sioux Falls/SD,0,0
+Sitka/AK,0,0
+South Bend/IN,0,0
+Spokane/WA,382,365
+Springfield/IL,0,0
+Springfield/MO,0,0
+St George/UT,0,0
+St Louis/MO,0,0
+St. Augustine/FL,0,0
+State College/PA,0,0
+Syracuse/NY,0,0
+Tallahassee/FL,0,0
+Tampa/FL,1915,1739
+Texarkana/AR,0,0
+Toledo/OH,0,0
+Traverse City/MI,0,0
+Trenton/NJ,0,0
+Tucson/AZ,0,0
+Tulsa/OK,0,0
+Twin Falls/ID,0,0
+Tyler/TX,0,0
+Valdosta/GA,0,0
+Valparaiso/FL,0,0
+Waco/TX,0,0
+Waterloo/IA,0,0
+West Palm Beach/FL,0,0
+West Yellowstone/MT,0,0
+White Plains/NY,0,0
+Wichita Falls/TX,0,0
+Wichita/KS,0,0
+Wilkes-Barre/Scranton/PA,0,0
+Williston/ND,0,0
+Wilmington/NC,0,0
+Windsor Locks/CT,0,0
+Worcester/MA,0,0
+Wrangell/AK,0,0
+Yakutat/AK,0,0
+Yuma/AZ,0,0

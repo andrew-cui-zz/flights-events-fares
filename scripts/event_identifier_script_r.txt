@@ -1,0 +1,95 @@
+setwd("/Users/mb13i5/Desktop/Datathon Materials")
+
+# read in the monthly events file
+monthly_events <- read.csv("monthly_events_similarity_score.csv")
+
+# We find the number of events associated with each city to see if they are worth investigating. We then identify the the three highest and lowest jsd scores associated with these cities and their respective months. We then select the events occurring within these cities in these months and identify them as the high JSD or low JSD events for these cities. 
+
+# find number of ny jsd events
+for (i in 1:length(monthly_events[, 1])) {
+  if (monthly_events$city[i] == "New York") {
+    print(monthly_events$JSD_score[i])
+    print(monthly_events$month[i])
+  }
+}
+
+new_york_high_jsd <- c(0.3113433, 0.2739121, 0.2674157)
+ny_high_jsd_months <- c(1, 3, 12)
+new_york_low_jsd <- c(0.1738115, 0.1695126, 0.1515076)
+ny_low_jsd_months <- c(11, 7, 4)
+
+# find number of ny spearman events
+for (i in 1:length(monthly_events[, 1])) {
+  if (monthly_events$city[i] == "New York") {
+    print(monthly_events$Spearman_cor[i])
+    print(monthly_events$month[i])
+  }
+}
+
+new_york_high_spearman <- c(0.1025794, 0.05844156, 0.03785714)
+ny_high_spearman_months <- c(11, 8, 3)
+new_york_low_spearman <- c(-0.3607143, -0.3733894, -0.4483333)
+ny_low_spearman_months <- c(12, 5, 1)
+
+
+events_topics <- read.csv("events_and_topics.csv")
+
+ny_high_jsd_events <- events_topics[which(events_topics$city == 'New York' & events_topics$month %in% ny_high_jsd_months), ]$event_name
+ny_low_jsd_events <- events_topics[which(events_topics$city == 'New York' & events_topics$month %in% ny_low_jsd_months), ]$event_name
+ny_high_spearman_events <- events_topics[which(events_topics$city == 'New York' & events_topics$month %in% ny_high_spearman_months), ]$event_name
+ny_low_spearman_events <- events_topics[which(events_topics$city == 'New York' & events_topics$month %in% ny_low_spearman_months), ]$event_name
+
+write(ny_high_jsd_events, "ny_high_jsd_events.csv")
+write(ny_low_jsd_events, "ny_low_jsd_events.csv")
+write(ny_high_spearman_events, "ny_high_spearman_events.csv")
+write(ny_low_spearman_events, "ny_low_spearman_events.csv")
+
+# find number of la jsd events
+for (i in 1:length(monthly_events[, 1])) {
+  if (monthly_events$city[i] == "Los Angeles") {
+    print(monthly_events$JSD_score[i])
+    print(monthly_events$month[i])
+  }
+}
+
+la_high_jsd <- c(0.3031386, 0.289418, 0.2874486)
+la_high_jsd_months <- c(10, 6, 4)
+la_low_jsd <- c(0.1724869, 0.1764589, 0.2062277)
+la_low_jsd_months <- c(2, 12, 1)
+
+la_high_jsd_events <- events_topics[which(events_topics$city == 'Los Angeles' & events_topics$month %in% la_high_jsd_months), ]$event_name
+la_low_jsd_events <- events_topics[which(events_topics$city == 'Los Angeles' & events_topics$month %in% la_low_jsd_months), ]$event_name
+
+# find number of chicago jsd events
+for (i in 1:length(monthly_events[, 1])) {
+  if (monthly_events$city[i] == "Chicago") {
+    print(monthly_events$JSD_score[i])
+    print(monthly_events$month[i])
+  }
+}
+
+chicago_high_jsd <- c(0.2469599, 0.2439953, 0.2296444)
+chicago_high_jsd_months <- c(9, 7, 6)
+chicago_low_jsd <- c(0.07527704, 0.1602794, 0.1961106)
+chicago_low_jsd_months <- c(2, 10, 4)
+
+chicago_high_jsd_events <- events_topics[which(events_topics$city == 'Chicago' & events_topics$month %in% chicago_high_jsd_months), ]$event_name
+chicago_low_jsd_events <- events_topics[which(events_topics$city == 'Chicago' & events_topics$month %in% chicago_low_jsd_months), ]$event_name
+
+# find number of nashville jsd events
+for (i in 1:length(monthly_events[, 1])) {
+  if (monthly_events$city[i] == "Nashville") {
+    print(monthly_events$JSD_score[i])
+    print(monthly_events$month[i])
+  }
+}
+
+nashville_high_jsd <- c(0.3381962, 0.3247843, 0.2376201)
+nashville_high_jsd_months <- c(7, 2, 6)
+nashville_low_jsd <- c(0.1765859, 0.1900991, 0.197402)
+nashville_low_jsd_months <- c(8, 11, 3)
+
+nashville_high_jsd_events <- events_topics[which(events_topics$city == 'Nashville' & events_topics$month %in% nashville_high_jsd_months), ]$event_name
+nashville_low_jsd_events <- events_topics[which(events_topics$city == 'Nashville' & events_topics$month %in% nashville_low_jsd_months), ]$event_name
+
+

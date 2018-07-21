@@ -1,0 +1,1152 @@
+"","date","month","city","state","event_name","JSD_score","Spearman_cor"
+"1","2/1/17",1,"St. Louis","MO","NHL Winter Classic",0,1
+"2","4/1/17",1,"New York","NY","National Board of Review of Motion Pictures Awards Gala",0.394928696118954,-0.160714285714286
+"3","5/1/17",1,"New York","NY","Winter Jazzfest NYC",0.319909088877058,-0.442857142857143
+"4","5/1/17",1,"Las Vegas","NV","International Consumer Electronics Show (CES)",0.266752159202612,0.146428571428571
+"5","5/1/17",1,"New York","NY","Jazz Connect Conference",0.209118119438482,-0.257142857142857
+"6","6/1/17",1,"New York","NY","Winter Jazzfest NYC",0.319909088877058,-0.442857142857143
+"7","6/1/17",1,"Las Vegas","NV","International Consumer Electronics Show (CES)",0.266752159202612,0.146428571428571
+"8","6/1/17",1,"New York","NY","Jazz Connect Conference",0.209118119438482,-0.257142857142857
+"9","6/1/17",1,"New York","NY","APAP conference",0.303738795803452,-0.603571428571428
+"10","7/1/17",1,"New York","NY","Winter Jazzfest NYC",0.319909088877058,-0.442857142857143
+"11","7/1/17",1,"Las Vegas","NV","International Consumer Electronics Show (CES)",0.266752159202612,0.146428571428571
+"12","7/1/17",1,"New York","NY","APAP conference",0.303738795803452,-0.603571428571428
+"13","8/1/17",1,"New York","NY","Winter Jazzfest NYC",0.319909088877058,-0.442857142857143
+"14","8/1/17",1,"Las Vegas","NV","International Consumer Electronics Show (CES)",0.266752159202612,0.146428571428571
+"15","8/1/17",1,"New York","NY","APAP conference",0.303738795803452,-0.603571428571428
+"16","9/1/17",1,"New York","NY","Winter Jazzfest NYC",0.319909088877058,-0.442857142857143
+"17","9/1/17",1,"New York","NY","APAP conference",0.303738795803452,-0.603571428571428
+"18","9/1/17",1,"Tampa","FL","CFP National Championship Game",0,1
+"19","10/1/17",1,"New York","NY","Winter Jazzfest NYC",0.319909088877058,-0.442857142857143
+"20","10/1/17",1,"New York","NY","APAP conference",0.303738795803452,-0.603571428571428
+"21","11/1/17",1,"Crested Butte","CO","Mountain High Music Festival",2.23374843279405e-18,1
+"22","11/1/17",1,"New York","NY","Intelligence Squared U.S. Spring Season Opening Debate",0.418835347128214,-0.375
+"23","12/1/17",1,"Crested Butte","CO","Mountain High Music Festival",2.23374843279405e-18,1
+"24","13/1/2017",1,"Crested Butte","CO","Mountain High Music Festival",2.23374843279405e-18,1
+"25","13/1/2017",1,"Santa Rosa Beach","FL","30A Songwriters Festival",0,1
+"26","14/1/2017",1,"Crested Butte","CO","Mountain High Music Festival",2.23374843279405e-18,1
+"27","14/1/2017",1,"Santa Rosa Beach","FL","30A Songwriters Festival",0,1
+"28","15/1/2017",1,"Crested Butte","CO","Mountain High Music Festival",2.23374843279405e-18,1
+"29","15/1/2017",1,"Santa Rosa Beach","FL","30A Songwriters Festival",0,1
+"30","16/1/2017",1,"Santa Rosa Beach","FL","30A Songwriters Festival",0,1
+"31","17/1/2017",1,"San Antonio","TX","Barbershop Harmony Society Midwinter Convention",0.118920857493896,0.392857142857143
+"32","17/1/2017",1,"Miami Beach","FL","NATPE",0.132624326880214,0.157142857142857
+"33","18/1/2017",1,"San Antonio","TX","Barbershop Harmony Society Midwinter Convention",0.118920857493896,0.392857142857143
+"34","18/1/2017",1,"Miami Beach","FL","NATPE",0.132624326880214,0.157142857142857
+"35","18/1/2017",1,"Los Angeles","CA","People's Choice Awards",0.147577292661444,-0.117857142857143
+"36","19/1/2017",1,"San Antonio","TX","Barbershop Harmony Society Midwinter Convention",0.118920857493896,0.392857142857143
+"37","19/1/2017",1,"Miami Beach","FL","NATPE",0.132624326880214,0.157142857142857
+"38","19/1/2017",1,"Park City","UT","Sundance Film Festival",1.85868701756144e-18,1
+"39","19/1/2017",1,"Anaheim","CA","National Association of Music Merchandise (NAMM) Show",0.18214886751665,0.838248770824574
+"40","19/1/2017",1,"Grand Rapids","MI","Michigan Music Conference",8.50006364975998e-17,1
+"41","20/1/2017",1,"San Antonio","TX","Barbershop Harmony Society Midwinter Convention",0.118920857493896,0.392857142857143
+"42","20/1/2017",1,"Park City","UT","Sundance Film Festival",1.85868701756144e-18,1
+"43","20/1/2017",1,"Anaheim","CA","National Association of Music Merchandise (NAMM) Show",0.18214886751665,0.838248770824574
+"44","20/1/2017",1,"Grand Rapids","MI","Michigan Music Conference",8.50006364975998e-17,1
+"45","21/1/2017",1,"San Antonio","TX","Barbershop Harmony Society Midwinter Convention",0.118920857493896,0.392857142857143
+"46","21/1/2017",1,"Park City","UT","Sundance Film Festival",1.85868701756144e-18,1
+"47","21/1/2017",1,"Anaheim","CA","National Association of Music Merchandise (NAMM) Show",0.18214886751665,0.838248770824574
+"48","21/1/2017",1,"Grand Rapids","MI","Michigan Music Conference",8.50006364975998e-17,1
+"49","22/1/2017",1,"San Antonio","TX","Barbershop Harmony Society Midwinter Convention",0.118920857493896,0.392857142857143
+"50","22/1/2017",1,"Park City","UT","Sundance Film Festival",1.85868701756144e-18,1
+"51","22/1/2017",1,"Anaheim","CA","National Association of Music Merchandise (NAMM) Show",0.18214886751665,0.838248770824574
+"52","22/1/2017",1,"San Francisco","CA","Winter Fancy Food Show",0.243429646974803,-0.0392857142857143
+"53","23/1/2017",1,"Park City","UT","Sundance Film Festival",1.85868701756144e-18,1
+"54","23/1/2017",1,"San Francisco","CA","Winter Fancy Food Show",0.243429646974803,-0.0392857142857143
+"55","24/1/2017",1,"Park City","UT","Sundance Film Festival",1.85868701756144e-18,1
+"56","24/1/2017",1,"San Francisco","CA","Winter Fancy Food Show",0.243429646974803,-0.0392857142857143
+"57","25/1/2017",1,"Park City","UT","Sundance Film Festival",1.85868701756144e-18,1
+"58","26/1/2017",1,"Park City","UT","Sundance Film Festival",1.85868701756144e-18,1
+"59","27/1/2017",1,"Park City","UT","Sundance Film Festival",1.85868701756144e-18,1
+"60","27/1/2017",1,"Ann Arbor","MI","Ann Arbor Folk Festival",0,1
+"61","28/1/2017",1,"Park City","UT","Sundance Film Festival",1.85868701756144e-18,1
+"62","28/1/2017",1,"Ann Arbor","MI","Ann Arbor Folk Festival",0,1
+"63","28/1/2017",1,"Los Angeles","CA","Producers Guild Awards",0.179078807324708,-0.0607142857142857
+"64","29/1/2017",1,"Park City","UT","Sundance Film Festival",1.85868701756144e-18,1
+"65","29/1/2017",1,"Orlando","FL","NFL Pro Bowl",0.178211346036736,0.0607142857142857
+"66","29/1/2017",1,"Los Angeles","CA","NHL All Star Game",0.300048063978934,-0.346428571428571
+"67","29/1/2017",1,"Los Angeles","CA","Screen Actors Guild Awards",0.179071578764085,-0.0571428571428571
+"68","31/1/2017",1,"Memphis","TN","International Blues Challenge",0.109689139362975,0.514285714285714
+"69","31/1/2017",1,"Los Angeles","CA","Pollstar Live!",0.225362577502049,-0.25
+"70","1/2/17",2,"Memphis","TN","International Blues Challenge",0.109689139362975,0.514285714285714
+"71","1/2/17",2,"Los Angeles","CA","Pollstar Live!",0.225362577502049,-0.25
+"72","1/2/17",2,"New York","NY","The Ellies National Magazine Awards Gal",0.279341705371083,-0.439285714285714
+"73","2/2/17",2,"Memphis","TN","International Blues Challenge",0.109689139362975,0.514285714285714
+"74","2/2/17",2,"Los Angeles","CA","Pollstar Live!",0.225362577502049,-0.25
+"75","3/2/17",2,"Memphis","TN","International Blues Challenge",0.109689139362975,0.514285714285714
+"76","4/2/17",2,"Memphis","TN","International Blues Challenge",0.109689139362975,0.514285714285714
+"77","4/2/17",2,"Chicago","IL","Chicago Voice Gala",0.0752770370356322,0.346428571428571
+"78","4/2/17",2,"Los Angeles","CA","Directors Guild Awards",0.187173096980004,-0.0428571428571429
+"79","4/2/17",2,"Houston","TX","NFL Honors",0.0208837304585899,0.996428571428571
+"80","5/2/17",2,"Houston","TX","NFL Super Bowl",0.0432840989653439,0.682142857142857
+"81","8/2/17",2,"Detroit","MI","Sphinx Competition",0.172013548928441,0.448615013810166
+"82","9/2/17",2,"Detroit","MI","Sphinx Competition",0.172013548928441,0.448615013810166
+"83","9/2/17",2,"New York","NY","New York Fashion Week (Fall/Winter 2017)",0.22699510052057,0.0678571428571429
+"84","10/2/17",2,"Detroit","MI","Sphinx Competition",0.172013548928441,0.448615013810166
+"85","10/2/17",2,"New York","NY","New York Fashion Week (Fall/Winter 2017)",0.22699510052057,0.0678571428571429
+"86","10/2/17",2,"Santa Monica","CA","MusiCares Person Of The Year Tribute",0,1
+"87","11/2/17",2,"Detroit","MI","Sphinx Competition",0.172013548928441,0.448615013810166
+"88","11/2/17",2,"New York","NY","New York Fashion Week (Fall/Winter 2017)",0.22699510052057,0.0678571428571429
+"89","11/2/17",2,"Los Angeles","CA","NAACP Image Awards",0.0893014684403703,-0.117857142857143
+"90","11/2/17",2,"Los Angeles","CA","The Academyäó»s Sci Tech Awards",0.147577292661477,-0.117857142857143
+"91","11/2/17",2,"Los Angeles","CA","The Writers Guild Awards",0.187173096980004,-0.0428571428571429
+"92","12/2/17",2,"Detroit","MI","Sphinx Competition",0.172013548928441,0.448615013810166
+"93","12/2/17",2,"New York","NY","New York Fashion Week (Fall/Winter 2017)",0.22699510052057,0.0678571428571429
+"94","12/2/17",2,"London","UK","BAFTA Awards",0.0929408445598565,-0.142857142857143
+"95","12/2/17",2,"Los Angeles","CA","GRAMMY Awards",0.147577292661467,-0.117857142857143
+"96","13/2/2017",2,"New York","NY","New York Fashion Week (Fall/Winter 2017)",0.22699510052057,0.0678571428571429
+"97","14/2/2017",2,"New York","NY","New York Fashion Week (Fall/Winter 2017)",0.22699510052057,0.0678571428571429
+"98","15/2/2017",2,"New York","NY","New York Fashion Week (Fall/Winter 2017)",0.22699510052057,0.0678571428571429
+"99","15/2/2017",2,"Kansas City","MO","Folk Alliance Conference",0,1
+"100","15/2/2017",2,"London","UK","NME Awards",0.0929408445598565,-0.142857142857143
+"101","16/2/2017",2,"New York","NY","New York Fashion Week (Fall/Winter 2017)",0.22699510052057,0.0678571428571429
+"102","16/2/2017",2,"Kansas City","MO","Folk Alliance Conference",0,1
+"103","16/2/2017",2,"Ventura","CA","Durango Songwriters Expo",0,1
+"104","16/2/2017",2,"Los Angeles","CA","Guild of Music Supervisors Awards",0.187173035844073,0.121428571428571
+"105","17/2/2017",2,"New York","NY","New York Fashion Week (Fall/Winter 2017)",0.22699510052057,0.0678571428571429
+"106","17/2/2017",2,"Kansas City","MO","Folk Alliance Conference",0,1
+"107","17/2/2017",2,"Ventura","CA","Durango Songwriters Expo",0,1
+"108","17/2/2017",2,"San Francisco","CA","Noise Pop Festival",0.12248097078425,0.125
+"109","18/2/2017",2,"Kansas City","MO","Folk Alliance Conference",0,1
+"110","18/2/2017",2,"Ventura","CA","Durango Songwriters Expo",0,1
+"111","18/2/2017",2,"San Francisco","CA","Noise Pop Festival",0.12248097078425,0.125
+"112","19/2/2017",2,"Kansas City","MO","Folk Alliance Conference",0,1
+"113","19/2/2017",2,"San Francisco","CA","Noise Pop Festival",0.12248097078425,0.125
+"114","19/2/2017",2,"New Orleans","LA","NBA All Star Game",0.282070899291319,-0.278571428571429
+"115","20/2/2017",2,"San Francisco","CA","Noise Pop Festival",0.12248097078425,0.125
+"116","21/2/2017",2,"San Francisco","CA","Noise Pop Festival",0.12248097078425,0.125
+"117","22/2/2017",2,"San Francisco","CA","Noise Pop Festival",0.12248097078425,0.125
+"118","22/2/2017",2,"Nashville","TN","Country Radio Seminar",0.293230022655253,-0.489285714285714
+"119","22/2/2017",2,"London","UK","BRIT Awards",0.0929408445598565,-0.142857142857143
+"120","23/2/2017",2,"San Francisco","CA","Noise Pop Festival",0.12248097078425,0.125
+"121","23/2/2017",2,"Nashville","TN","Country Radio Seminar",0.293230022655253,-0.489285714285714
+"122","23/2/2017",2,"Harrisburg","PA","Millennium Music Conference & Showcase",0,1
+"123","24/2/2017",2,"San Francisco","CA","Noise Pop Festival",0.12248097078425,0.125
+"124","24/2/2017",2,"Nashville","TN","Country Radio Seminar",0.293230022655253,-0.489285714285714
+"125","24/2/2017",2,"Harrisburg","PA","Millennium Music Conference & Showcase",0,1
+"126","25/2/2017",2,"San Francisco","CA","Noise Pop Festival",0.12248097078425,0.125
+"127","25/2/2017",2,"Harrisburg","PA","Millennium Music Conference & Showcase",0,1
+"128","25/2/2017",2,"Los Angeles","CA","Film Independent Spirit Awards",0.155681932252586,0.0571428571428571
+"129","26/2/2017",2,"San Francisco","CA","Noise Pop Festival",0.12248097078425,0.125
+"130","26/2/2017",2,"Harrisburg","PA","Millennium Music Conference & Showcase",0,1
+"131","26/2/2017",2,"Daytona Beach","FL","Daytona 500",0,NA
+"132","26/2/2017",2,"Hollywood","CA","The Academy Awards",0.224461586561293,0.225
+"133","27/2/2017",2,"San Francisco","CA","Noise Pop Festival",0.12248097078425,0.125
+"134","27/2/2017",2,"Nashville","TN","T.J. Martell Foundation Nashville Honors Gala",0.419447075471393,0.367857142857143
+"135","1/3/17",3,"New York","NY","UJA Federation of New Yorkäó»s REX Gala",0.20721109749135,0.257142857142857
+"136","3/3/17",3,"Phoenix","AZ","McDowell Mountain Music Festiva",0.117744289564956,0.889285714285714
+"137","3/3/17",3,"New York","NY","Django a Gogo Music Festival at Carnegie Hall",0.371969670730676,0.0357142857142857
+"138","4/3/17",3,"Phoenix","AZ","McDowell Mountain Music Festiva",0.117744289564956,0.889285714285714
+"139","5/3/17",3,"Phoenix","AZ","McDowell Mountain Music Festiva",0.117744289564956,0.889285714285714
+"140","5/3/17",3,"Los Angeles","CA","iHeartRadio Music Awards",0.147577185198667,0.0303842838038758
+"141","6/3/17",3,"New York","NY","Michael Dorf Presents' annual äóìMusic Ofäó tribute show",0.375957232701709,-0.239285714285714
+"142","7/3/17",3,"New York","NY","Media Summit New York",0.20721115245508,0.0678571428571429
+"143","8/3/17",3,"New York","NY","Media Summit New York",0.20721115245508,0.0678571428571429
+"144","8/3/17",3,"London","UK","International Live Music Conference",0.177394028090614,0.578571428571428
+"145","9/3/17",3,"London","UK","International Live Music Conference",0.177394028090614,0.578571428571428
+"146","10/3/17",3,"London","UK","International Live Music Conference",0.177394028090614,0.578571428571428
+"147","10/3/17",3,"Austin","TX","South By Southwest (Film)",0.183021349167839,0.214285714285714
+"148","10/3/17",3,"Austin","TX","South By Southwest (Interactive)",0.228067167771717,0.0357462162398539
+"149","11/3/17",3,"Austin","TX","South By Southwest (Film)",0.183021349167839,0.214285714285714
+"150","11/3/17",3,"Austin","TX","South By Southwest (Interactive)",0.228067167771717,0.0357462162398539
+"151","11/3/17",3,"Austin","TX","South By Southwest (Comedy)",0.228067167771723,0.0285714285714286
+"152","12/3/17",3,"Austin","TX","South By Southwest (Film)",0.183021349167839,0.214285714285714
+"153","12/3/17",3,"Austin","TX","South By Southwest (Interactive)",0.228067167771717,0.0357462162398539
+"154","12/3/17",3,"Austin","TX","South By Southwest (Comedy)",0.228067167771723,0.0285714285714286
+"155","13/3/2017",3,"Austin","TX","South By Southwest (Film)",0.183021349167839,0.214285714285714
+"156","13/3/2017",3,"Austin","TX","South By Southwest (Interactive)",0.228067167771717,0.0357462162398539
+"157","13/3/2017",3,"Austin","TX","South By Southwest (Comedy)",0.228067167771723,0.0285714285714286
+"158","13/3/2017",3,"Austin","TX","South By Southwest (Music)",0.228067067638945,0.428571428571428
+"159","14/3/2017",3,"Austin","TX","South By Southwest (Film)",0.183021349167839,0.214285714285714
+"160","14/3/2017",3,"Austin","TX","South By Southwest (Interactive)",0.228067167771717,0.0357462162398539
+"161","14/3/2017",3,"Austin","TX","South By Southwest (Comedy)",0.228067167771723,0.0285714285714286
+"162","14/3/2017",3,"Austin","TX","South By Southwest (Music)",0.228067067638945,0.428571428571428
+"163","15/3/2017",3,"Austin","TX","South By Southwest (Film)",0.183021349167839,0.214285714285714
+"164","15/3/2017",3,"Austin","TX","South By Southwest (Comedy)",0.228067167771723,0.0285714285714286
+"165","15/3/2017",3,"Austin","TX","South By Southwest (Music)",0.228067067638945,0.428571428571428
+"166","16/3/2017",3,"Austin","TX","South By Southwest (Film)",0.183021349167839,0.214285714285714
+"167","16/3/2017",3,"Austin","TX","South By Southwest (Comedy)",0.228067167771723,0.0285714285714286
+"168","16/3/2017",3,"Austin","TX","South By Southwest (Music)",0.228067067638945,0.428571428571428
+"169","17/3/2017",3,"Austin","TX","South By Southwest (Film)",0.183021349167839,0.214285714285714
+"170","17/3/2017",3,"Austin","TX","South By Southwest (Comedy)",0.228067167771723,0.0285714285714286
+"171","17/3/2017",3,"Austin","TX","South By Southwest (Music)",0.228067067638945,0.428571428571428
+"172","17/3/2017",3,"Los Angeles","CA","PaleyFest LA",0.214174722947162,0
+"173","18/3/2017",3,"Austin","TX","South By Southwest (Film)",0.183021349167839,0.214285714285714
+"174","18/3/2017",3,"Austin","TX","South By Southwest (Comedy)",0.228067167771723,0.0285714285714286
+"175","18/3/2017",3,"Austin","TX","South By Southwest (Music)",0.228067067638945,0.428571428571428
+"176","18/3/2017",3,"Los Angeles","CA","PaleyFest LA",0.214174722947162,0
+"177","18/3/2017",3,"Miami","FL","Jazz in the Gardens Music Festival",0.241938699144309,0.417857142857143
+"178","19/3/2017",3,"Austin","TX","South By Southwest (Music)",0.228067067638945,0.428571428571428
+"179","19/3/2017",3,"Los Angeles","CA","PaleyFest LA",0.214174722947162,0
+"180","19/3/2017",3,"Miami","FL","Jazz in the Gardens Music Festival",0.241938699144309,0.417857142857143
+"181","20/3/2017",3,"Los Angeles","CA","PaleyFest LA",0.214174722947162,0
+"182","21/3/2017",3,"Los Angeles","CA","PaleyFest LA",0.214174722947162,0
+"183","21/3/2017",3,"Miami Beach","FL","Winter Music Conference",0.162774625260166,0.928571428571428
+"184","22/3/2017",3,"Los Angeles","CA","PaleyFest LA",0.214174722947162,0
+"185","22/3/2017",3,"Miami Beach","FL","Winter Music Conference",0.162774625260166,0.928571428571428
+"186","22/3/2017",3,"Boise","ID","Treefort Music Fest",0,1
+"187","23/3/2017",3,"Los Angeles","CA","PaleyFest LA",0.214174722947162,0
+"188","23/3/2017",3,"Miami Beach","FL","Winter Music Conference",0.162774625260166,0.928571428571428
+"189","23/3/2017",3,"Boise","ID","Treefort Music Fest",0,1
+"190","24/3/2017",3,"Los Angeles","CA","PaleyFest LA",0.214174722947162,0
+"191","24/3/2017",3,"Miami Beach","FL","Winter Music Conference",0.162774625260166,0.928571428571428
+"192","24/3/2017",3,"Boise","ID","Treefort Music Fest",0,1
+"193","24/3/2017",3,"Miami","FL","Ultra Music Festival",0.234342151761035,0.417857142857143
+"194","25/3/2017",3,"Los Angeles","CA","PaleyFest LA",0.214174722947162,0
+"195","25/3/2017",3,"Boise","ID","Treefort Music Fest",0,1
+"196","25/3/2017",3,"Miami","FL","Ultra Music Festival",0.234342151761035,0.417857142857143
+"197","25/3/2017",3,"Las Vegas","NV","Stellar Gospel Music Awards",0.214558061599939,-0.217857142857143
+"198","26/3/2017",3,"Los Angeles","CA","PaleyFest LA",0.214174722947162,0
+"199","26/3/2017",3,"Boise","ID","Treefort Music Fest",0,1
+"200","26/3/2017",3,"Miami","FL","Ultra Music Festival",0.234342151761035,0.417857142857143
+"201","28/3/2017",3,"Nashville","TN","Tin Pan South Songwriters Festival",0.197401965253253,0.139285714285714
+"202","29/3/2017",3,"Nashville","TN","Tin Pan South Songwriters Festival",0.197401965253253,0.139285714285714
+"203","30/3/2017",3,"Nashville","TN","Tin Pan South Songwriters Festival",0.197401965253253,0.139285714285714
+"204","30/3/2017",3,"Las Vegas","NV","ACM Party for a Cause Festival",0.228410078665918,0.114285714285714
+"205","30/3/2017",3,"Walland","TN","Americana Spring Celebration",0,1
+"206","31/3/2017",3,"Nashville","TN","Tin Pan South Songwriters Festival",0.197401965253253,0.139285714285714
+"207","31/3/2017",3,"Las Vegas","NV","ACM Party for a Cause Festival",0.228410078665918,0.114285714285714
+"208","31/3/2017",3,"Walland","TN","Americana Spring Celebration",0,1
+"209","31/3/2017",3,"Anaheim","CA","WonderCon",0.0627324141496688,0.425
+"210","1/4/17",4,"Nashville","TN","Tin Pan South Songwriters Festival",0.197401965253253,0.139285714285714
+"211","1/4/17",4,"Las Vegas","NV","ACM Party for a Cause Festival",0.228410078665918,0.114285714285714
+"212","1/4/17",4,"Walland","TN","Americana Spring Celebration",0,1
+"213","1/4/17",4,"Anaheim","CA","WonderCon",0.0627324141496688,0.425
+"214","1/4/17",4,"Phoenix","AZ","NCAA Final Four",0.202737661937141,0.353571428571428
+"215","2/4/17",4,"Las Vegas","NV","ACM Party for a Cause Festival",0.228410078665918,0.114285714285714
+"216","2/4/17",4,"Anaheim","CA","WonderCon",0.0627324141496688,0.425
+"217","2/4/17",4,"Las Vegas","NV","Academy of Country Music Awards",0.267658522471506,-0.0892857142857143
+"218","3/4/17",4,"New York","NY","New York City International Film Festival",0.105677455719396,0.221428571428571
+"219","3/4/17",4,"Phoenix","AZ","NCAA Championship Game",0.230363477951794,0.357142857142857
+"220","4/4/17",4,"New York","NY","New York City International Film Festival",0.105677455719396,0.221428571428571
+"221","5/4/17",4,"New York","NY","New York City International Film Festival",0.105677455719396,0.221428571428571
+"222","6/4/17",4,"New York","NY","New York City International Film Festival",0.105677455719396,0.221428571428571
+"223","6/4/17",4,"Florence","AZ","Country Thunder Arizona",0,1
+"224","6/4/17",4,"Austin","TX","Euphoria Music Fest",0.186106290175978,0.403571428571428
+"225","6/4/17",4,"New Orleans","LA","French Quarter Festival",0.210162764161855,0.332142857142857
+"226","7/4/17",4,"New York","NY","New York City International Film Festival",0.105677455719396,0.221428571428571
+"227","7/4/17",4,"Florence","AZ","Country Thunder Arizona",0,1
+"228","7/4/17",4,"Austin","TX","Euphoria Music Fest",0.186106290175978,0.403571428571428
+"229","7/4/17",4,"New Orleans","LA","French Quarter Festival",0.210162764161855,0.332142857142857
+"230","7/4/17",4,"Fort Lauderdale","FL","Tortuga Music Festival",5.01254482989513e-17,1
+"231","7/4/17",4,"Brooklyn","NY","Rock and Roll Hall of Fame Induction Ceremony",0.305262608206892,-0.0785714285714286
+"232","8/4/17",4,"Florence","AZ","Country Thunder Arizona",0,1
+"233","8/4/17",4,"Austin","TX","Euphoria Music Fest",0.186106290175978,0.403571428571428
+"234","8/4/17",4,"New Orleans","LA","French Quarter Festival",0.210162764161855,0.332142857142857
+"235","8/4/17",4,"Fort Lauderdale","FL","Tortuga Music Festival",5.01254482989513e-17,1
+"236","9/4/17",4,"Florence","AZ","Country Thunder Arizona",0,1
+"237","9/4/17",4,"Austin","TX","Euphoria Music Fest",0.186106290175978,0.403571428571428
+"238","9/4/17",4,"New Orleans","LA","French Quarter Festival",0.210162764161855,0.332142857142857
+"239","9/4/17",4,"Fort Lauderdale","FL","Tortuga Music Festival",5.01254482989513e-17,1
+"240","13/4/2017",4,"Lancaster","PA","Launch Music Conference & Festival",0,1
+"241","13/4/2017",4,"Los Angeles","CA","ASCAP äóìI Create Musicäó EXPO",0.326448107705822,0.0607142857142857
+"242","13/4/2017",4,"New York","NY","SESAC Pop Music Awards",0.370907556780014,0.0214285714285714
+"243","14/4/2017",4,"Lancaster","PA","Launch Music Conference & Festival",0,1
+"244","14/4/2017",4,"Los Angeles","CA","ASCAP äóìI Create Musicäó EXPO",0.326448107705822,0.0607142857142857
+"245","14/4/2017",4,"Indio","CA","Coachella weekend 1",0.0647671995452815,0.396428571428571
+"246","15/4/2017",4,"Lancaster","PA","Launch Music Conference & Festival",0,1
+"247","15/4/2017",4,"Los Angeles","CA","ASCAP äóìI Create Musicäó EXPO",0.326448107705822,0.0607142857142857
+"248","15/4/2017",4,"Indio","CA","Coachella weekend 1",0.0647671995452815,0.396428571428571
+"249","16/4/2017",4,"Lancaster","PA","Launch Music Conference & Festival",0,1
+"250","16/4/2017",4,"Indio","CA","Coachella weekend 1",0.0647671995452815,0.396428571428571
+"251","19/4/2017",4,"New York","NY","Tribeca Film Festival",0.1574638925096,-0.0892857142857143
+"252","20/4/2017",4,"New York","NY","Tribeca Film Festival",0.1574638925096,-0.0892857142857143
+"253","20/4/2017",4,"Nashville","TN","Nashville Film Festival",0.239667529147505,0.157142857142857
+"254","20/4/2017",4,"Seattle","WA","MoPOP Pop Conference",0.145511152182986,0.625
+"255","20/4/2017",4,"Orlando","FL","Florida Music Festival & Conference",0.201277055591731,0.475
+"256","20/4/2017",4,"New York","NY","Vanity Fairäó»s Founders Fair",0.0897830630884137,NA
+"257","21/4/2017",4,"New York","NY","Tribeca Film Festival",0.1574638925096,-0.0892857142857143
+"258","21/4/2017",4,"Nashville","TN","Nashville Film Festival",0.239667529147505,0.157142857142857
+"259","21/4/2017",4,"Seattle","WA","MoPOP Pop Conference",0.145511152182986,0.625
+"260","21/4/2017",4,"Orlando","FL","Florida Music Festival & Conference",0.201277055591731,0.475
+"261","21/4/2017",4,"Chicago","IL","Chicago Comic & Entertainment Expo",0.196110609296023,-0.185714285714286
+"262","21/4/2017",4,"Indio","CA","Coachella weekend 2",0.0647671995452815,0.396428571428571
+"263","22/4/2017",4,"New York","NY","Tribeca Film Festival",0.1574638925096,-0.0892857142857143
+"264","22/4/2017",4,"Nashville","TN","Nashville Film Festival",0.239667529147505,0.157142857142857
+"265","22/4/2017",4,"Seattle","WA","MoPOP Pop Conference",0.145511152182986,0.625
+"266","22/4/2017",4,"Orlando","FL","Florida Music Festival & Conference",0.201277055591731,0.475
+"267","22/4/2017",4,"Chicago","IL","Chicago Comic & Entertainment Expo",0.196110609296023,-0.185714285714286
+"268","22/4/2017",4,"Indio","CA","Coachella weekend 2",0.0647671995452815,0.396428571428571
+"269","22/4/2017",4,"Las Vegas","NV","NAB Show",0.135041940259226,-0.453571428571428
+"270","22/4/2017",4,"Los Angeles","CA","Los Angeles Times Festival of Books",0.298885031838189,0.0285714285714286
+"271","22/4/2017",4,"Clarksdale","MS","Juke Joint Festival",0.0581450349096185,0.705463600778662
+"272","23/4/2017",4,"New York","NY","Tribeca Film Festival",0.1574638925096,-0.0892857142857143
+"273","23/4/2017",4,"Nashville","TN","Nashville Film Festival",0.239667529147505,0.157142857142857
+"274","23/4/2017",4,"Seattle","WA","MoPOP Pop Conference",0.145511152182986,0.625
+"275","23/4/2017",4,"Chicago","IL","Chicago Comic & Entertainment Expo",0.196110609296023,-0.185714285714286
+"276","23/4/2017",4,"Indio","CA","Coachella weekend 2",0.0647671995452815,0.396428571428571
+"277","23/4/2017",4,"Las Vegas","NV","NAB Show",0.135041940259226,-0.453571428571428
+"278","23/4/2017",4,"Los Angeles","CA","Los Angeles Times Festival of Books",0.298885031838189,0.0285714285714286
+"279","24/4/2017",4,"New York","NY","Tribeca Film Festival",0.1574638925096,-0.0892857142857143
+"280","24/4/2017",4,"Nashville","TN","Nashville Film Festival",0.239667529147505,0.157142857142857
+"281","24/4/2017",4,"Las Vegas","NV","NAB Show",0.135041940259226,-0.453571428571428
+"282","24/4/2017",4,"Miami","FL","Billboard Latin Music Conference and Awards",0.242118488225096,0.375
+"283","25/4/2017",4,"New York","NY","Tribeca Film Festival",0.1574638925096,-0.0892857142857143
+"284","25/4/2017",4,"Nashville","TN","Nashville Film Festival",0.239667529147505,0.157142857142857
+"285","25/4/2017",4,"Las Vegas","NV","NAB Show",0.135041940259226,-0.453571428571428
+"286","25/4/2017",4,"Miami","FL","Billboard Latin Music Conference and Awards",0.242118488225096,0.375
+"287","26/4/2017",4,"New York","NY","Tribeca Film Festival",0.1574638925096,-0.0892857142857143
+"288","26/4/2017",4,"Nashville","TN","Nashville Film Festival",0.239667529147505,0.157142857142857
+"289","26/4/2017",4,"Las Vegas","NV","NAB Show",0.135041940259226,-0.453571428571428
+"290","26/4/2017",4,"Miami","FL","Billboard Latin Music Conference and Awards",0.242118488225096,0.375
+"291","27/4/2017",4,"New York","NY","Tribeca Film Festival",0.1574638925096,-0.0892857142857143
+"292","27/4/2017",4,"Nashville","TN","Nashville Film Festival",0.239667529147505,0.157142857142857
+"293","27/4/2017",4,"Las Vegas","NV","NAB Show",0.135041940259226,-0.453571428571428
+"294","27/4/2017",4,"Miami","FL","Billboard Latin Music Conference and Awards",0.242118488225096,0.375
+"295","27/4/2017",4,"Wilkesboro","NC","MerleFest",0,1
+"296","27/4/2017",4,"Philadelphia","PA","NFL 2017 Draft",0.209313855503612,-0.0392857142857143
+"297","28/4/2017",4,"New York","NY","Tribeca Film Festival",0.1574638925096,-0.0892857142857143
+"298","28/4/2017",4,"Nashville","TN","Nashville Film Festival",0.239667529147505,0.157142857142857
+"299","28/4/2017",4,"Wilkesboro","NC","MerleFest",0,1
+"300","28/4/2017",4,"Philadelphia","PA","NFL 2017 Draft",0.209313855503612,-0.0392857142857143
+"301","28/4/2017",4,"New Orleans","LA","New Orleans Jazz & Heritage Festival",0.25098043901593,0.407142857142857
+"302","28/4/2017",4,"Las Cruces","NM","Las Cruces Country Music Festival",-6.21411634974213e-19,1
+"303","28/4/2017",4,"Indio","CA","Stagecoach Festival",0.178984357608215,0.871428571428571
+"304","29/4/2017",4,"New York","NY","Tribeca Film Festival",0.1574638925096,-0.0892857142857143
+"305","29/4/2017",4,"Nashville","TN","Nashville Film Festival",0.239667529147505,0.157142857142857
+"306","29/4/2017",4,"Wilkesboro","NC","MerleFest",0,1
+"307","29/4/2017",4,"Philadelphia","PA","NFL 2017 Draft",0.209313855503612,-0.0392857142857143
+"308","29/4/2017",4,"New Orleans","LA","New Orleans Jazz & Heritage Festival",0.25098043901593,0.407142857142857
+"309","29/4/2017",4,"Las Cruces","NM","Las Cruces Country Music Festival",-6.21411634974213e-19,1
+"310","29/4/2017",4,"Indio","CA","Stagecoach Festival",0.178984357608215,0.871428571428571
+"311","29/4/2017",4,"Forth Worth","TX","Fortress Festival",0,1
+"312","29/4/2017",4,"Washington","DC","White House Correspondentsäó» Association Dinner",0.168143610944758,0.217857142857143
+"313","30/4/2017",4,"New York","NY","Tribeca Film Festival",0.1574638925096,-0.0892857142857143
+"314","30/4/2017",4,"Wilkesboro","NC","MerleFest",0,1
+"315","30/4/2017",4,"New Orleans","LA","New Orleans Jazz & Heritage Festival",0.25098043901593,0.407142857142857
+"316","30/4/2017",4,"Las Cruces","NM","Las Cruces Country Music Festival",-6.21411634974213e-19,1
+"317","30/4/2017",4,"Indio","CA","Stagecoach Festival",0.178984357608215,0.871428571428571
+"318","30/4/2017",4,"Forth Worth","TX","Fortress Festival",0,1
+"319","30/4/2017",4,"Hollywood","CA","MUSEXPO",0.156319347863008,-0.121428571428571
+"320","30/4/2017",4,"Los Angeles","CA","Daytime Emmy Awards",0.147577292661478,-0.117857142857143
+"321","1/5/17",5,"New Orleans","LA","New Orleans Jazz & Heritage Festival",0.25098043901593,0.407142857142857
+"322","1/5/17",5,"Hollywood","CA","MUSEXPO",0.156319347863008,-0.121428571428571
+"323","2/5/17",5,"New Orleans","LA","New Orleans Jazz & Heritage Festival",0.25098043901593,0.407142857142857
+"324","2/5/17",5,"Hollywood","CA","MUSEXPO",0.156319347863008,-0.121428571428571
+"325","2/5/17",5,"Nashville","TN","GRAMMY Block Party",0.143328213944303,0.0285714285714286
+"326","3/5/17",5,"New Orleans","LA","New Orleans Jazz & Heritage Festival",0.25098043901593,0.407142857142857
+"327","3/5/17",5,"Hollywood","CA","MUSEXPO",0.156319347863008,-0.121428571428571
+"328","3/5/17",5,"Hollywood","CA","Worldwide Radio Summit",0.310326554222554,0.185714285714286
+"329","3/5/17",5,"New York","NY","A Celebration Of The Music Of Jimmy Webb: The Cake And The Rain at Carnegie Hall",0.333165860171522,-0.221428571428571
+"330","4/5/17",5,"New Orleans","LA","New Orleans Jazz & Heritage Festival",0.25098043901593,0.407142857142857
+"331","4/5/17",5,"Hollywood","CA","Worldwide Radio Summit",0.310326554222554,0.185714285714286
+"332","5/5/17",5,"New Orleans","LA","New Orleans Jazz & Heritage Festival",0.25098043901593,0.407142857142857
+"333","5/5/17",5,"Hollywood","CA","Worldwide Radio Summit",0.310326554222554,0.185714285714286
+"334","5/5/17",5,"Memphis","TN","Beale Street Music Festival",0.178083641167221,0.717857142857143
+"335","5/5/17",5,"Louisville","KY","The Kentucky Oaks",0.129780719523063,0.339285714285714
+"336","6/5/17",5,"New Orleans","LA","New Orleans Jazz & Heritage Festival",0.25098043901593,0.407142857142857
+"337","6/5/17",5,"Memphis","TN","Beale Street Music Festival",0.178083641167221,0.717857142857143
+"338","6/5/17",5,"New York","NY","Kristen Ann Carr Fund A Night To Remember",0.296064954054355,-0.514285714285714
+"339","6/5/17",5,"Louisville","KY","The Kentucky Derby",0.129780719523063,0.339285714285714
+"340","7/5/17",5,"New Orleans","LA","New Orleans Jazz & Heritage Festival",0.25098043901593,0.407142857142857
+"341","7/5/17",5,"Memphis","TN","Beale Street Music Festival",0.178083641167221,0.717857142857143
+"342","8/5/17",5,"New Orleans","LA","Inc. GrowCo Conference",0.323649121938331,-0.221428571428571
+"343","9/5/17",5,"New Orleans","LA","Inc. GrowCo Conference",0.323649121938331,-0.221428571428571
+"344","9/5/17",5,"Nashville","TN","Gospel Music Association Honors",0.144014397481998,0.225
+"345","9/5/17",5,"New York","NY","Varietyäó»s Entertainment & Technology Summit",0.207211103457924,-0.142857142857143
+"346","10/5/17",5,"New Orleans","LA","Inc. GrowCo Conference",0.323649121938331,-0.221428571428571
+"347","10/5/17",5,"Key West","FL","Key West Songwriteräó»s Festival",2.23374845152643e-18,1
+"348","10/5/17",5,"Los Angeles","CA","LA Games Conference",0.187966665303732,0.0285714285714286
+"349","10/5/17",5,"Brooklyn","NY","Relix Live Music Conference",0.230719936910038,0.332142857142857
+"350","11/5/17",5,"Key West","FL","Key West Songwriteräó»s Festival",2.23374845152643e-18,1
+"351","11/5/17",5,"Memphis","TN","Blues Music Awards",0.163115758478938,0.714285714285714
+"352","12/5/17",5,"Key West","FL","Key West Songwriteräó»s Festival",2.23374845152643e-18,1
+"353","12/5/17",5,"Atlanta","GA","Shaky Knees Festival",0.105284531005549,0.532142857142857
+"354","13/5/2017",5,"Key West","FL","Key West Songwriteräó»s Festival",2.23374845152643e-18,1
+"355","13/5/2017",5,"Atlanta","GA","Shaky Knees Festival",0.105284531005549,0.532142857142857
+"356","14/5/2017",5,"Key West","FL","Key West Songwriteräó»s Festival",2.23374845152643e-18,1
+"357","14/5/2017",5,"Atlanta","GA","Shaky Knees Festival",0.105284531005549,0.532142857142857
+"358","14/5/2017",5,"Spokane","WA","Musicfest Northwest",-1.23727633908705e-18,0.999106743903916
+"359","15/5/2017",5,"Spokane","WA","Musicfest Northwest",-1.23727633908705e-18,0.999106743903916
+"360","15/5/2017",5,"Nashville","TN","Music Biz 2017 Convention",0.226307067329577,0.242857142857143
+"361","15/5/2017",5,"New York","NY","TechCrunch Disrupt",0.311017967165238,-0.588025257145597
+"362","16/5/2017",5,"Spokane","WA","Musicfest Northwest",-1.23727633908705e-18,0.999106743903916
+"363","16/5/2017",5,"Nashville","TN","Music Biz 2017 Convention",0.226307067329577,0.242857142857143
+"364","16/5/2017",5,"New York","NY","TechCrunch Disrupt",0.311017967165238,-0.588025257145597
+"365","17/5/2017",5,"Spokane","WA","Musicfest Northwest",-1.23727633908705e-18,0.999106743903916
+"366","17/5/2017",5,"Nashville","TN","Music Biz 2017 Convention",0.226307067329577,0.242857142857143
+"367","17/5/2017",5,"New York","NY","TechCrunch Disrupt",0.311017967165238,-0.588025257145597
+"368","17/5/2017",5,"Philadelphia","PA","Non COMMvention",0.209313856627168,-0.232142857142857
+"369","18/5/2017",5,"Spokane","WA","Musicfest Northwest",-1.23727633908705e-18,0.999106743903916
+"370","18/5/2017",5,"Nashville","TN","Music Biz 2017 Convention",0.226307067329577,0.242857142857143
+"371","18/5/2017",5,"Philadelphia","PA","Non COMMvention",0.209313856627168,-0.232142857142857
+"372","18/5/2017",5,"Durham","NC","Moogfest",0,1
+"373","18/5/2017",5,"Brighton","UK","The Great Escape Festival",0,1
+"374","18/5/2017",5,"Los Angeles","CA","ASCAP Pop Music Awards",0.21556773773036,0.257142857142857
+"375","19/5/2017",5,"Spokane","WA","Musicfest Northwest",-1.23727633908705e-18,0.999106743903916
+"376","19/5/2017",5,"Philadelphia","PA","Non COMMvention",0.209313856627168,-0.232142857142857
+"377","19/5/2017",5,"Durham","NC","Moogfest",0,1
+"378","19/5/2017",5,"Brighton","UK","The Great Escape Festival",0,1
+"379","19/5/2017",5,"Gulf Shores","AL","Hangout Festival",0,1
+"380","20/5/2017",5,"Durham","NC","Moogfest",0,1
+"381","20/5/2017",5,"Brighton","UK","The Great Escape Festival",0,1
+"382","20/5/2017",5,"Gulf Shores","AL","Hangout Festival",0,1
+"383","20/5/2017",5,"Dana Point","CA","Doheny Blues Festival",0.137301402741165,0.792857142857143
+"384","20/5/2017",5,"New York","NY","Vulture Festival",0.123550491235957,-0.0892857142857143
+"385","20/5/2017",5,"Baltimore","MD","Infieldfest at The Preakness",0.0247519388708986,1
+"386","20/5/2017",5,"Baltimore","MD","The Preakness Stakes",0.0376558981766975,1
+"387","21/5/2017",5,"Durham","NC","Moogfest",0,1
+"388","21/5/2017",5,"Gulf Shores","AL","Hangout Festival",0,1
+"389","21/5/2017",5,"Dana Point","CA","Doheny Blues Festival",0.137301402741165,0.792857142857143
+"390","21/5/2017",5,"New York","NY","Vulture Festival",0.123550491235957,-0.0892857142857143
+"391","21/5/2017",5,"Las Vegas","NV","Billboard Music Awards",0.214558061618276,-0.217857142857143
+"392","23/5/2017",5,"Los Angeles","CA","Digital Hollywood Spring",0.286724942246117,-0.264285714285714
+"393","24/5/2017",5,"Los Angeles","CA","Digital Hollywood Spring",0.286724942246117,-0.264285714285714
+"394","25/5/2017",5,"Los Angeles","CA","Digital Hollywood Spring",0.286724942246117,-0.264285714285714
+"395","25/5/2017",5,"Cumberland","MD","DelFest",0,1
+"396","25/5/2017",5,"Liverpool","UK","Liverpool Sound City",0,1
+"397","26/5/2017",5,"Cumberland","MD","DelFest",0,1
+"398","26/5/2017",5,"Liverpool","UK","Liverpool Sound City",0,1
+"399","26/5/2017",5,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"400","26/5/2017",5,"Boston","MA","Boston Calling Music Festival",0.040175994017631,0.996428571428571
+"401","26/5/2017",5,"George","WA","Sasquatch! Music Festival",2.78802696462143e-18,1
+"402","27/5/2017",5,"Cumberland","MD","DelFest",0,1
+"403","27/5/2017",5,"Liverpool","UK","Liverpool Sound City",0,1
+"404","27/5/2017",5,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"405","27/5/2017",5,"Boston","MA","Boston Calling Music Festival",0.040175994017631,0.996428571428571
+"406","27/5/2017",5,"George","WA","Sasquatch! Music Festival",2.78802696462143e-18,1
+"407","27/5/2017",5,"Detroit","MI","Movement Detroit",0.123847455648394,0.485714285714286
+"408","28/5/2017",5,"Cumberland","MD","DelFest",0,1
+"409","28/5/2017",5,"Liverpool","UK","Liverpool Sound City",0,1
+"410","28/5/2017",5,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"411","28/5/2017",5,"Boston","MA","Boston Calling Music Festival",0.040175994017631,0.996428571428571
+"412","28/5/2017",5,"George","WA","Sasquatch! Music Festival",2.78802696462143e-18,1
+"413","28/5/2017",5,"Detroit","MI","Movement Detroit",0.123847455648394,0.485714285714286
+"414","29/5/2017",5,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"415","29/5/2017",5,"Detroit","MI","Movement Detroit",0.123847455648394,0.485714285714286
+"416","30/5/2017",5,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"417","31/5/2017",5,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"418","31/5/2017",5,"New York","NY","BookExpo America",0.300455488952179,-0.539285714285714
+"419","1/6/17",6,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"420","1/6/17",6,"New York","NY","BookExpo America",0.300455488952179,-0.539285714285714
+"421","2/6/17",6,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"422","2/6/17",6,"New York","NY","BookExpo America",0.300455488952179,-0.539285714285714
+"423","2/6/17",6,"Cincinnati","OH","Bunbury Music Festival",0.0311084377705924,0.996428571428571
+"424","2/6/17",6,"Augusta","NJ","Michael Arnoneäó»s Crawfish Fest",-4.50869891373576e-17,1
+"425","2/6/17",6,"Culver City","CA","Newport Beach Jazz Festival",7.44580148756619e-19,1
+"426","2/6/17",6,"New York","NY","The Governors Ball Music Festival",0.371969686001549,0.0607142857142857
+"427","3/6/17",6,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"428","3/6/17",6,"Cincinnati","OH","Bunbury Music Festival",0.0311084377705924,0.996428571428571
+"429","3/6/17",6,"Augusta","NJ","Michael Arnoneäó»s Crawfish Fest",-4.50869891373576e-17,1
+"430","3/6/17",6,"Culver City","CA","Newport Beach Jazz Festival",7.44580148756619e-19,1
+"431","3/6/17",6,"New York","NY","The Governors Ball Music Festival",0.371969686001549,0.0607142857142857
+"432","3/6/17",6,"Philadelphia","PA","Roots Picnic",0.209313830259453,0.414285714285714
+"433","4/6/17",6,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"434","4/6/17",6,"Cincinnati","OH","Bunbury Music Festival",0.0311084377705924,0.996428571428571
+"435","4/6/17",6,"Augusta","NJ","Michael Arnoneäó»s Crawfish Fest",-4.50869891373576e-17,1
+"436","4/6/17",6,"Culver City","CA","Newport Beach Jazz Festival",7.44580148756619e-19,1
+"437","4/6/17",6,"New York","NY","The Governors Ball Music Festival",0.371969686001549,0.0607142857142857
+"438","4/6/17",6,"New York","NY","Drama Desk Awards",0.216276037644909,-0.421428571428571
+"439","5/6/17",6,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"440","5/6/17",6,"New York","NY","A2IM Indie Week",0.18124143087625,-0.303571428571428
+"441","5/6/17",6,"New York","NY","Reeperbahn Festival New York Edition",0.0893216800408971,0.210714285714286
+"442","6/6/17",6,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"443","6/6/17",6,"New York","NY","A2IM Indie Week",0.18124143087625,-0.303571428571428
+"444","6/6/17",6,"New York","NY","Reeperbahn Festival New York Edition",0.0893216800408971,0.210714285714286
+"445","6/6/17",6,"Beverly Hills","CA","Gracie Awards Gala",0.171310937566373,0.982142857142857
+"446","7/6/17",6,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"447","7/6/17",6,"New York","NY","A2IM Indie Week",0.18124143087625,-0.303571428571428
+"448","7/6/17",6,"New York","NY","Reeperbahn Festival New York Edition",0.0893216800408971,0.210714285714286
+"449","7/6/17",6,"Brooklyn","NY","Northside Festival",0.132212557837834,0.0392857142857143
+"450","7/6/17",6,"Brooklyn","NY","Celebrate Brooklyn! Opening Night Concert & Gala",0.420622194548949,0.721428571428571
+"451","7/6/17",6,"Nashville","TN","CMT Music Awards",0.181303774009126,0.148346797395394
+"452","7/6/17",6,"Nashville","TN","NASH Country Daily Annual Kick Off Party",0.2932300214086,0.0107142857142857
+"453","8/6/17",6,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"454","8/6/17",6,"New York","NY","A2IM Indie Week",0.18124143087625,-0.303571428571428
+"455","8/6/17",6,"New York","NY","Reeperbahn Festival New York Edition",0.0893216800408971,0.210714285714286
+"456","8/6/17",6,"Brooklyn","NY","Northside Festival",0.132212557837834,0.0392857142857143
+"457","8/6/17",6,"Manchester","TN","Bonnaroo Music & Arts Festival",0,1
+"458","8/6/17",6,"Nashville","TN","CMA Music Festival",0.287043783334751,0.389285714285714
+"459","8/6/17",6,"Eau Claire","WI","Blue Ox Festival",7.77889270410136e-15,1
+"460","8/6/17",6,"New York","NY","A2IMäó»s LIBERA Awards",0.216276037644909,-0.421428571428571
+"461","9/6/17",6,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"462","9/6/17",6,"Brooklyn","NY","Northside Festival",0.132212557837834,0.0392857142857143
+"463","9/6/17",6,"Manchester","TN","Bonnaroo Music & Arts Festival",0,1
+"464","9/6/17",6,"Nashville","TN","CMA Music Festival",0.287043783334751,0.389285714285714
+"465","9/6/17",6,"Eau Claire","WI","Blue Ox Festival",7.77889270410136e-15,1
+"466","9/6/17",6,"Bethel Woods","NY","Mysteryland",0,1
+"467","10/6/17",6,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"468","10/6/17",6,"Brooklyn","NY","Northside Festival",0.132212557837834,0.0392857142857143
+"469","10/6/17",6,"Manchester","TN","Bonnaroo Music & Arts Festival",0,1
+"470","10/6/17",6,"Nashville","TN","CMA Music Festival",0.287043783334751,0.389285714285714
+"471","10/6/17",6,"Eau Claire","WI","Blue Ox Festival",7.77889270410136e-15,1
+"472","10/6/17",6,"Bethel Woods","NY","Mysteryland",0,1
+"473","10/6/17",6,"Hollywood","CA","Playboy Jazz Festival",0.250922449216202,0.0892857142857143
+"474","10/6/17",6,"Los Angeles","CA","Producers Guild of Americaäó»s Produced By LA Conference",0.267638921369086,0.303571428571428
+"475","10/6/17",6,"Elmont","NY","Belmont Stakes",0,1
+"476","10/6/17",6,"Milwaukee","WI","Summerfest Rock äóÖN Sole Run",0.069350129562617,0.485714285714286
+"477","11/6/17",6,"Charleston","SC","Spoleto Festival",0.128952215658054,0.528571428571428
+"478","11/6/17",6,"Brooklyn","NY","Northside Festival",0.132212557837834,0.0392857142857143
+"479","11/6/17",6,"Manchester","TN","Bonnaroo Music & Arts Festival",0,1
+"480","11/6/17",6,"Nashville","TN","CMA Music Festival",0.287043783334751,0.389285714285714
+"481","11/6/17",6,"Bethel Woods","NY","Mysteryland",0,1
+"482","11/6/17",6,"Hollywood","CA","Playboy Jazz Festival",0.250922449216202,0.0892857142857143
+"483","11/6/17",6,"Los Angeles","CA","Producers Guild of Americaäó»s Produced By LA Conference",0.267638921369086,0.303571428571428
+"484","11/6/17",6,"New York","NY","The Tony Awards",0.216276037644909,-0.421428571428571
+"485","12/6/17",6,"Bethel Woods","NY","Mysteryland",5.91342954337622e-17,1
+"486","12/6/17",6,"Erin","WI","US Open (Golf)",7.26667359508193e-17,1
+"487","12/6/17",6,"Nashville","TN","IMMERSE Conference",0.191413030276621,-0.425
+"488","12/6/17",6,"New York","NY","SyncSummit New York",0.181241409916504,0.121428571428571
+"489","13/6/2017",6,"Erin","WI","US Open (Golf)",7.26667359508193e-17,1
+"490","13/6/2017",6,"Nashville","TN","IMMERSE Conference",0.191413030276621,-0.425
+"491","13/6/2017",6,"New York","NY","SyncSummit New York",0.181241409916504,0.121428571428571
+"492","13/6/2017",6,"Los Angeles","CA","Electronic Entertainment Expo (E3)",0.270935270492276,0.025
+"493","13/6/2017",6,"Beverly Hills","CA","Varietyäó»s Tune In! TV Summit",0.116061152675856,0.442857142857143
+"494","14/6/2017",6,"Erin","WI","US Open (Golf)",7.26667359508193e-17,1
+"495","14/6/2017",6,"Nashville","TN","IMMERSE Conference",0.191413030276621,-0.425
+"496","14/6/2017",6,"Los Angeles","CA","Electronic Entertainment Expo (E3)",0.270935270492276,0.025
+"497","14/6/2017",6,"New York","NY","UJA Federation of New York Music Visionary of the Year Award",0.241980182315323,0.4
+"498","15/6/2017",6,"Erin","WI","US Open (Golf)",7.26667359508193e-17,1
+"499","15/6/2017",6,"Los Angeles","CA","Electronic Entertainment Expo (E3)",0.270935270492276,0.025
+"500","15/6/2017",6,"Dover","DE","Firefly Music Festival",0,1
+"501","15/6/2017",6,"Telluride","CO","Telluride Bluegrass Festival",0.0254074757975985,0.996428571428571
+"502","15/6/2017",6,"New York","NY","Songwriters Hall of Fame Induction Ceremony",0.394928702221653,0.225
+"503","16/6/2017",6,"Erin","WI","US Open (Golf)",7.26667359508193e-17,1
+"504","16/6/2017",6,"Dover","DE","Firefly Music Festival",0,1
+"505","16/6/2017",6,"Telluride","CO","Telluride Bluegrass Festival",0.0254074757975985,0.996428571428571
+"506","16/6/2017",6,"Las Vegas","NV","Electric Daisy Carnival",0.225615906572152,-0.453571428571428
+"507","16/6/2017",6,"Hunter","NY","Mountain Jam",3.71182901726185e-18,1
+"508","16/6/2017",6,"Eau Claire","WI","Eaux Claires Festival",1.75917321765692e-14,0.675
+"509","17/6/2017",6,"Erin","WI","US Open (Golf)",7.26667359508193e-17,1
+"510","17/6/2017",6,"Dover","DE","Firefly Music Festival",0,1
+"511","17/6/2017",6,"Telluride","CO","Telluride Bluegrass Festival",0.0254074757975985,0.996428571428571
+"512","17/6/2017",6,"Las Vegas","NV","Electric Daisy Carnival",0.225615906572152,-0.453571428571428
+"513","17/6/2017",6,"Hunter","NY","Mountain Jam",3.71182901726185e-18,1
+"514","17/6/2017",6,"Eau Claire","WI","Eaux Claires Festival",1.75917321765692e-14,0.675
+"515","17/6/2017",6,"Hudson","NY","Clearwateräó»s Great Hudson River Revival Croton on Hudson",0,1
+"516","18/6/2017",6,"Erin","WI","US Open (Golf)",7.26667359508193e-17,1
+"517","18/6/2017",6,"Dover","DE","Firefly Music Festival",0,1
+"518","18/6/2017",6,"Telluride","CO","Telluride Bluegrass Festival",0.0254074757975985,0.996428571428571
+"519","18/6/2017",6,"Las Vegas","NV","Electric Daisy Carnival",0.225615906572152,-0.453571428571428
+"520","18/6/2017",6,"Hunter","NY","Mountain Jam",3.71182901726185e-18,1
+"521","18/6/2017",6,"Hudson","NY","Clearwateräó»s Great Hudson River Revival Croton on Hudson",0,1
+"522","21/6/2017",6,"Glastonbury","UK","Glastonbury Festival",0,1
+"523","22/6/2017",6,"Glastonbury","UK","Glastonbury Festival",0,1
+"524","22/6/2017",6,"Los Angeles","CA","BET Experience",0.296027302196457,-0.285714285714286
+"525","23/6/2017",6,"Glastonbury","UK","Glastonbury Festival",0,1
+"526","23/6/2017",6,"Los Angeles","CA","BET Experience",0.296027302196457,-0.285714285714286
+"527","23/6/2017",6,"Rochester","NY","Rochester International Jazz Festival",7.44573243855801e-19,1
+"528","23/6/2017",6,"Chicago","IL","Country Lake Shake",0.229644380118596,-0.35
+"529","23/6/2017",6,"North Adams","MA","Solid Sound",3.71182901726696e-18,1
+"530","23/6/2017",6,"Waterford","MS","North Mississippi Hill Country Picnic",0,1
+"531","24/6/2017",6,"Glastonbury","UK","Glastonbury Festival",0,1
+"532","24/6/2017",6,"Los Angeles","CA","BET Experience",0.296027302196457,-0.285714285714286
+"533","24/6/2017",6,"Rochester","NY","Rochester International Jazz Festival",7.44573243855801e-19,1
+"534","24/6/2017",6,"Chicago","IL","Country Lake Shake",0.229644380118596,-0.35
+"535","24/6/2017",6,"North Adams","MA","Solid Sound",3.71182901726696e-18,1
+"536","24/6/2017",6,"Waterford","MS","North Mississippi Hill Country Picnic",0,1
+"537","24/6/2017",6,"Pasadena","CA","Arroyo Seco Weekend",0,1
+"538","24/6/2017",6,"Saratoga","NY","Saratoga Jazz Festival",0,1
+"539","25/6/2017",6,"Glastonbury","UK","Glastonbury Festival",0,1
+"540","25/6/2017",6,"Los Angeles","CA","BET Experience",0.296027302196457,-0.285714285714286
+"541","25/6/2017",6,"Rochester","NY","Rochester International Jazz Festival",7.44573243855801e-19,1
+"542","25/6/2017",6,"Chicago","IL","Country Lake Shake",0.229644380118596,-0.35
+"543","25/6/2017",6,"North Adams","MA","Solid Sound",3.71182901726696e-18,1
+"544","25/6/2017",6,"Pasadena","CA","Arroyo Seco Weekend",0,1
+"545","25/6/2017",6,"Saratoga","NY","Saratoga Jazz Festival",0,1
+"546","25/6/2017",6,"New York","NY","Summer Fancy Food Show",0.369908306323218,-0.610714285714286
+"547","26/6/2017",6,"Rochester","NY","Rochester International Jazz Festival",7.44573243855801e-19,1
+"548","26/6/2017",6,"New York","NY","Summer Fancy Food Show",0.369908306323218,-0.610714285714286
+"549","26/6/2017",6,"Los Angeles","CA","Anti Piracy and Content Protection Summit",0.313607643397616,-0.157142857142857
+"550","26/6/2017",6,"Nashville","TN","K LOVE Fan Awards",0.21816425082975,-0.407142857142857
+"551","27/6/2017",6,"Rochester","NY","Rochester International Jazz Festival",7.44573243855801e-19,1
+"552","27/6/2017",6,"New York","NY","Summer Fancy Food Show",0.369908306323218,-0.610714285714286
+"553","27/6/2017",6,"Los Angeles","CA","Anti Piracy and Content Protection Summit",0.313607643397616,-0.157142857142857
+"554","27/6/2017",6,"Nashville","TN","K LOVE Fan Awards",0.21816425082975,-0.407142857142857
+"555","28/6/2017",6,"Rochester","NY","Rochester International Jazz Festival",7.44573243855801e-19,1
+"556","28/6/2017",6,"Los Angeles","CA","Anti Piracy and Content Protection Summit",0.313607643397616,-0.157142857142857
+"557","28/6/2017",6,"Nashville","TN","K LOVE Fan Awards",0.21816425082975,-0.407142857142857
+"558","28/6/2017",6,"Milwaukee","WI","Summerfest",0.0392175849095795,0.485714285714286
+"559","29/6/2017",6,"Rochester","NY","Rochester International Jazz Festival",7.44573243855801e-19,1
+"560","29/6/2017",6,"Milwaukee","WI","Summerfest",0.0392175849095795,0.485714285714286
+"561","29/6/2017",6,"Washington","DC","Smithsonian Folklife Festival",0.127057068120356,0.339285714285714
+"562","29/6/2017",6,"New Orleans","LA","Essence Music Festival",0.159434577958818,0.696428571428571
+"563","30/6/2017",6,"Rochester","NY","Rochester International Jazz Festival",7.44573243855801e-19,1
+"564","30/6/2017",6,"Milwaukee","WI","Summerfest",0.0392175849095795,0.485714285714286
+"565","30/6/2017",6,"Washington","DC","Smithsonian Folklife Festival",0.127057068120356,0.339285714285714
+"566","30/6/2017",6,"New Orleans","LA","Essence Music Festival",0.159434577958818,0.696428571428571
+"567","1/7/17",7,"Rochester","NY","Rochester International Jazz Festival",7.44573243855801e-19,1
+"568","1/7/17",7,"Milwaukee","WI","Summerfest",0.0392175849095795,0.485714285714286
+"569","1/7/17",7,"Washington","DC","Smithsonian Folklife Festival",0.127057068120356,0.339285714285714
+"570","1/7/17",7,"New Orleans","LA","Essence Music Festival",0.159434577958818,0.696428571428571
+"571","2/7/17",7,"Milwaukee","WI","Summerfest",0.0392175849095795,0.485714285714286
+"572","2/7/17",7,"Washington","DC","Smithsonian Folklife Festival",0.127057068120356,0.339285714285714
+"573","2/7/17",7,"New Orleans","LA","Essence Music Festival",0.159434577958818,0.696428571428571
+"574","2/7/17",7,"Las Vegas","NV","Barbershop Harmony Society International Convention",0.286923163209462,0.146428571428571
+"575","3/7/17",7,"Washington","DC","Smithsonian Folklife Festival",0.127057068120356,0.339285714285714
+"576","3/7/17",7,"Las Vegas","NV","Barbershop Harmony Society International Convention",0.286923163209462,0.146428571428571
+"577","4/7/17",7,"Washington","DC","Smithsonian Folklife Festival",0.127057068120356,0.339285714285714
+"578","4/7/17",7,"Las Vegas","NV","Barbershop Harmony Society International Convention",0.286923163209462,0.146428571428571
+"579","4/7/17",7,"Milwaukee","WI","Summerfest",0.0392175849095795,0.485714285714286
+"580","5/7/17",7,"Las Vegas","NV","Barbershop Harmony Society International Convention",0.286923163209462,0.146428571428571
+"581","5/7/17",7,"Milwaukee","WI","Summerfest",0.0392175849095795,0.485714285714286
+"582","6/7/17",7,"Las Vegas","NV","Barbershop Harmony Society International Convention",0.286923163209462,0.146428571428571
+"583","6/7/17",7,"Milwaukee","WI","Summerfest",0.0392175849095795,0.485714285714286
+"584","6/7/17",7,"Washington","DC","Smithsonian Folklife Festival",0.127057068120356,0.339285714285714
+"585","6/7/17",7,"Beltsville","MD","Independent Gospel Artist Alliance Conference",9.36228331110689e-17,1
+"586","7/7/17",7,"Las Vegas","NV","Barbershop Harmony Society International Convention",0.286923163209462,0.146428571428571
+"587","7/7/17",7,"Milwaukee","WI","Summerfest",0.0392175849095795,0.485714285714286
+"588","7/7/17",7,"Washington","DC","Smithsonian Folklife Festival",0.127057068120356,0.339285714285714
+"589","7/7/17",7,"Beltsville","MD","Independent Gospel Artist Alliance Conference",9.36228331110689e-17,1
+"590","8/7/17",7,"Las Vegas","NV","Barbershop Harmony Society International Convention",0.286923163209462,0.146428571428571
+"591","8/7/17",7,"Milwaukee","WI","Summerfest",0.0392175849095795,0.485714285714286
+"592","8/7/17",7,"Washington","DC","Smithsonian Folklife Festival",0.127057068120356,0.339285714285714
+"593","8/7/17",7,"Beltsville","MD","Independent Gospel Artist Alliance Conference",9.36228331110689e-17,1
+"594","8/7/17",7,"Queens","NY","Louis Armstrongäó»s Wonderful World Festival",0.169339438961481,0.517857142857143
+"595","9/7/17",7,"Las Vegas","NV","Barbershop Harmony Society International Convention",0.286923163209462,0.146428571428571
+"596","9/7/17",7,"Milwaukee","WI","Summerfest",0.0392175849095795,0.485714285714286
+"597","9/7/17",7,"Washington","DC","Smithsonian Folklife Festival",0.127057068120356,0.339285714285714
+"598","11/7/17",7,"Las Vegas","NV","Ticket Summit",0.320130644047408,-0.553571428571428
+"599","11/7/17",7,"Miami","FL","MLB All Star Game",0.197446862137351,-0.189285714285714
+"600","12/7/17",7,"Las Vegas","NV","Ticket Summit",0.320130644047408,-0.553571428571428
+"601","12/7/17",7,"Okemah","OK","Woody Guthrie Folk Festival",-4.06194927548296e-17,1
+"602","12/7/17",7,"Los Angeles","CA","The ESPY Awards",0.0893014684403703,-0.117857142857143
+"603","13/7/2017",7,"Las Vegas","NV","Ticket Summit",0.320130644047408,-0.553571428571428
+"604","13/7/2017",7,"Okemah","OK","Woody Guthrie Folk Festival",-4.06194927548296e-17,1
+"605","13/7/2017",7,"Nashville","TN","Summer NAMM",0.309024263761817,-0.667857142857143
+"606","13/7/2017",7,"Los Angeles","CA","Variety Sports & Entertainment Summit",0.214174632886179,0.0285714285714286
+"607","14/7/2017",7,"Okemah","OK","Woody Guthrie Folk Festival",-4.06194927548296e-17,1
+"608","14/7/2017",7,"Nashville","TN","Summer NAMM",0.309024263761817,-0.667857142857143
+"609","14/7/2017",7,"Louisville","KY","Forecastle Festival",0.092183168261848,0.875
+"610","14/7/2017",7,"Greenfield","MA","Green River Festival",3.71736703296331e-18,1
+"611","14/7/2017",7,"Chicago","IL","Pitchfork Music Festival",0.196517839523044,0.0821428571428571
+"612","14/7/2017",7,"Chicago","IL","Windy City Smokeout",0.291472858088643,-0.382142857142857
+"613","14/7/2017",7,"Midland","TX","Tall City Blues Fest",0,1
+"614","15/7/2017",7,"Okemah","OK","Woody Guthrie Folk Festival",-4.06194927548296e-17,1
+"615","15/7/2017",7,"Nashville","TN","Summer NAMM",0.309024263761817,-0.667857142857143
+"616","15/7/2017",7,"Louisville","KY","Forecastle Festival",0.092183168261848,0.875
+"617","15/7/2017",7,"Greenfield","MA","Green River Festival",3.71736703296331e-18,1
+"618","15/7/2017",7,"Chicago","IL","Pitchfork Music Festival",0.196517839523044,0.0821428571428571
+"619","15/7/2017",7,"Chicago","IL","Windy City Smokeout",0.291472858088643,-0.382142857142857
+"620","15/7/2017",7,"Midland","TX","Tall City Blues Fest",0,1
+"621","16/7/2017",7,"Okemah","OK","Woody Guthrie Folk Festival",-4.06194927548296e-17,1
+"622","16/7/2017",7,"Louisville","KY","Forecastle Festival",0.092183168261848,0.875
+"623","16/7/2017",7,"Greenfield","MA","Green River Festival",3.71736703296331e-18,1
+"624","16/7/2017",7,"Chicago","IL","Pitchfork Music Festival",0.196517839523044,0.0821428571428571
+"625","16/7/2017",7,"Chicago","IL","Windy City Smokeout",0.291472858088643,-0.382142857142857
+"626","17/7/2017",7,"Aspen","CO","Fortune Brainstorm TECH",0.13730142582339,0.664285714285714
+"627","18/7/2017",7,"Aspen","CO","Fortune Brainstorm TECH",0.13730142582339,0.664285714285714
+"628","19/7/2017",7,"Aspen","CO","Fortune Brainstorm TECH",0.13730142582339,0.664285714285714
+"629","20/7/2017",7,"San Diego","CA","Comic Con International",0.137728203068601,0.496428571428571
+"630","20/7/2017",7,"Twin Lakes","WI","Country Thunder Music Festival Wisconsin",0,1
+"631","21/7/2017",7,"San Diego","CA","Comic Con International",0.137728203068601,0.496428571428571
+"632","21/7/2017",7,"Twin Lakes","WI","Country Thunder Music Festival Wisconsin",0,1
+"633","21/7/2017",7,"Brooklyn","MI","Faster Horses Festival",0.157174818449457,0.0392857142857143
+"634","21/7/2017",7,"Los Angeles","CA","FYF Fest",0.249846511036821,-0.271428571428571
+"635","22/7/2017",7,"San Diego","CA","Comic Con International",0.137728203068601,0.496428571428571
+"636","22/7/2017",7,"Twin Lakes","WI","Country Thunder Music Festival Wisconsin",0,1
+"637","22/7/2017",7,"Brooklyn","MI","Faster Horses Festival",0.157174818449457,0.0392857142857143
+"638","22/7/2017",7,"Los Angeles","CA","FYF Fest",0.249846511036821,-0.271428571428571
+"639","22/7/2017",7,"New York","NY","OZY Fusion Fest",0.217067366416727,-0.464285714285714
+"640","23/7/2017",7,"San Diego","CA","Comic Con International",0.137728203068601,0.496428571428571
+"641","23/7/2017",7,"Twin Lakes","WI","Country Thunder Music Festival Wisconsin",0,1
+"642","23/7/2017",7,"Brooklyn","MI","Faster Horses Festival",0.157174818449457,0.0392857142857143
+"643","23/7/2017",7,"Los Angeles","CA","FYF Fest",0.249846511036821,-0.271428571428571
+"644","23/7/2017",7,"Nashville","TN","Barbershop Harmony Society Harmony University",0.349135632080484,-0.585714285714286
+"645","24/7/2017",7,"Nashville","TN","Barbershop Harmony Society Harmony University",0.349135632080484,-0.585714285714286
+"646","25/7/2017",7,"Nashville","TN","Barbershop Harmony Society Harmony University",0.349135632080484,-0.585714285714286
+"647","25/7/2017",7,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"648","26/7/2017",7,"Nashville","TN","Barbershop Harmony Society Harmony University",0.349135632080484,-0.585714285714286
+"649","26/7/2017",7,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"650","26/7/2017",7,"Floyd","VA","FloydFest Music Festival",0,1
+"651","27/7/2017",7,"Nashville","TN","Barbershop Harmony Society Harmony University",0.349135632080484,-0.585714285714286
+"652","27/7/2017",7,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"653","27/7/2017",7,"Floyd","VA","FloydFest Music Festival",0,1
+"654","28/7/2017",7,"Nashville","TN","Barbershop Harmony Society Harmony University",0.349135632080484,-0.585714285714286
+"655","28/7/2017",7,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"656","28/7/2017",7,"Floyd","VA","FloydFest Music Festival",0,1
+"657","28/7/2017",7,"Newport","RI","Newport Folk Festival",3.31436923009657e-15,1
+"658","28/7/2017",7,"New York","NY","Panorama Festival",0.123550491235925,-0.0892857142857143
+"659","28/7/2017",7,"George","WA","Watershed Music Festival",-5.57605845318744e-18,1
+"660","28/7/2017",7,"Camden","NJ","XPoNetial Music Fest",0,1
+"661","29/7/2017",7,"Nashville","TN","Barbershop Harmony Society Harmony University",0.349135632080484,-0.585714285714286
+"662","29/7/2017",7,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"663","29/7/2017",7,"Floyd","VA","FloydFest Music Festival",0,1
+"664","29/7/2017",7,"Newport","RI","Newport Folk Festival",3.31436923009657e-15,1
+"665","29/7/2017",7,"New York","NY","Panorama Festival",0.123550491235925,-0.0892857142857143
+"666","29/7/2017",7,"George","WA","Watershed Music Festival",-5.57605845318744e-18,1
+"667","29/7/2017",7,"Camden","NJ","XPoNetial Music Fest",0,1
+"668","30/7/2017",7,"Nashville","TN","Barbershop Harmony Society Harmony University",0.349135632080484,-0.585714285714286
+"669","30/7/2017",7,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"670","30/7/2017",7,"Floyd","VA","FloydFest Music Festival",0,1
+"671","30/7/2017",7,"Newport","RI","Newport Folk Festival",3.31436923009657e-15,1
+"672","30/7/2017",7,"New York","NY","Panorama Festival",0.123550491235925,-0.0892857142857143
+"673","30/7/2017",7,"George","WA","Watershed Music Festival",-5.57605845318744e-18,1
+"674","30/7/2017",7,"Camden","NJ","XPoNetial Music Fest",0,1
+"675","31/7/2017",7,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"676","1/8/17",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"677","2/8/17",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"678","3/8/17",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"679","3/8/17",8,"Chicago","IL","Lollapalooza",0.198645662282648,-0.439285714285714
+"680","3/8/17",8,"Happy Valley","OR","Pickathon",6.28405816501033e-17,1
+"681","3/8/17",8,"New Orleans","LA","Satchmo Summerfest",0.255614041520939,-0.146428571428571
+"682","4/8/17",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"683","4/8/17",8,"Chicago","IL","Lollapalooza",0.198645662282648,-0.439285714285714
+"684","4/8/17",8,"Happy Valley","OR","Pickathon",7.41257243267987e-18,1
+"685","4/8/17",8,"New Orleans","LA","Satchmo Summerfest",0.255614041520939,-0.146428571428571
+"686","4/8/17",8,"Sturgis","SD","Sturgis Buffalo Chip Rally Concert Series",-4.80431507893622e-17,1
+"687","4/8/17",8,"Newport","RI","Newport Jazz Festival",3.3494388640742e-15,0.671428571428571
+"688","5/8/17",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"689","5/8/17",8,"Chicago","IL","Lollapalooza",0.198645662282648,-0.439285714285714
+"690","5/8/17",8,"Happy Valley","OR","Pickathon",7.41257243267987e-18,1
+"691","5/8/17",8,"New Orleans","LA","Satchmo Summerfest",0.255614041520939,-0.146428571428571
+"692","5/8/17",8,"Sturgis","SD","Sturgis Buffalo Chip Rally Concert Series",-4.80431507893622e-17,1
+"693","5/8/17",8,"Newport","RI","Newport Jazz Festival",3.3494388640742e-15,0.671428571428571
+"694","5/8/17",8,"Los Angeles","CA","HARD Summer Festival",0.25076274470564,-0.275
+"695","6/8/17",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"696","6/8/17",8,"Chicago","IL","Lollapalooza",0.198645662282648,-0.439285714285714
+"697","6/8/17",8,"Happy Valley","OR","Pickathon",6.28405816501033e-17,1
+"698","6/8/17",8,"New Orleans","LA","Satchmo Summerfest",0.255614041520939,-0.146428571428571
+"699","6/8/17",8,"Sturgis","SD","Sturgis Buffalo Chip Rally Concert Series",-4.80431507893622e-17,1
+"700","6/8/17",8,"Newport","RI","Newport Jazz Festival",3.3494388640742e-15,0.671428571428571
+"701","6/8/17",8,"Los Angeles","CA","HARD Summer Festival",0.25076274470564,-0.275
+"702","7/8/17",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"703","7/8/17",8,"Sturgis","SD","Sturgis Buffalo Chip Rally Concert Series",-4.80431507893622e-17,1
+"704","7/8/17",8,"Nashville","TN","VenueConnect",0.126836217039738,-0.407142857142857
+"705","8/8/17",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"706","8/8/17",8,"Sturgis","SD","Sturgis Buffalo Chip Rally Concert Series",-4.80431507893622e-17,1
+"707","8/8/17",8,"Nashville","TN","VenueConnect",0.126836217039738,-0.407142857142857
+"708","9/8/17",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"709","9/8/17",8,"Sturgis","SD","Sturgis Buffalo Chip Rally Concert Series",-4.80431507893622e-17,1
+"710","9/8/17",8,"Nashville","TN","VenueConnect",0.126836217039738,-0.407142857142857
+"711","9/8/17",8,"Boulder","CO","FMQB Triple A Conference",0,1
+"712","10/8/17",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"713","10/8/17",8,"Sturgis","SD","Sturgis Buffalo Chip Rally Concert Series",-4.80431507893622e-17,1
+"714","10/8/17",8,"Nashville","TN","VenueConnect",0.126836217039738,-0.407142857142857
+"715","10/8/17",8,"Boulder","CO","FMQB Triple A Conference",0,1
+"716","10/8/17",8,"Los Angeles","CA","Sundance NEXT Festival",0.256307186932852,-0.271428571428571
+"717","11/8/17",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"718","11/8/17",8,"Sturgis","SD","Sturgis Buffalo Chip Rally Concert Series",-4.80431507893622e-17,1
+"719","11/8/17",8,"Boulder","CO","FMQB Triple A Conference",0,1
+"720","11/8/17",8,"Los Angeles","CA","Sundance NEXT Festival",0.256307186932852,-0.271428571428571
+"721","11/8/17",8,"Big Sky","MT","Big Sky Classical Music Festival",9.42442370658343e-17,1
+"722","11/8/17",8,"San Francisco","CA","Outside Lands Festival",0.122480976303922,0.0821428571428571
+"723","11/8/17",8,"Clarksdale","MS","Sunflower River Blues & Gospel Festival",0.0315030005777608,0.992857142857143
+"724","12/8/17",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"725","12/8/17",8,"Sturgis","SD","Sturgis Buffalo Chip Rally Concert Series",-4.80431507893622e-17,1
+"726","12/8/17",8,"Boulder","CO","FMQB Triple A Conference",0,1
+"727","12/8/17",8,"Los Angeles","CA","Sundance NEXT Festival",0.256307186932852,-0.271428571428571
+"728","12/8/17",8,"Big Sky","MT","Big Sky Classical Music Festival",9.42442370658343e-17,1
+"729","12/8/17",8,"San Francisco","CA","Outside Lands Festival",0.122480976303922,0.0821428571428571
+"730","12/8/17",8,"Clarksdale","MS","Sunflower River Blues & Gospel Festival",0.0315030005777608,0.992857142857143
+"731","12/8/17",8,"New York","NY","AmericanaFest NYC at Lincoln Center",0.351582354977828,-0.0714285714285714
+"732","12/8/17",8,"Missoula","MT","Travelersäó» Rest",0,1
+"733","13/8/2017",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"734","13/8/2017",8,"Los Angeles","CA","Sundance NEXT Festival",0.256307186932852,-0.271428571428571
+"735","13/8/2017",8,"Big Sky","MT","Big Sky Classical Music Festival",9.42442370658343e-17,1
+"736","13/8/2017",8,"San Francisco","CA","Outside Lands Festival",0.122480976303922,0.0821428571428571
+"737","13/8/2017",8,"Clarksdale","MS","Sunflower River Blues & Gospel Festival",0.0315030005777608,0.992857142857143
+"738","13/8/2017",8,"New York","NY","AmericanaFest NYC at Lincoln Center",0.351582354977828,-0.0714285714285714
+"739","13/8/2017",8,"Missoula","MT","Travelersäó» Rest",0,1
+"740","13/8/2017",8,"Los Angeles","CA","Teen Choice Awards",0.147577292661444,-0.117857142857143
+"741","14/8/2017",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"742","14/8/2017",8,"Atlantic City","NJ","DJ Expo",0,1
+"743","15/8/2017",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"744","15/8/2017",8,"Atlantic City","NJ","DJ Expo",0,1
+"745","16/8/2017",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"746","16/8/2017",8,"Atlantic City","NJ","DJ Expo",0,1
+"747","17/8/2017",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"748","17/8/2017",8,"Atlantic City","NJ","DJ Expo",0,1
+"749","17/8/2017",8,"Brecon Beacons","UK","Green Man Festival",0,1
+"750","18/8/2017",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"751","18/8/2017",8,"Brecon Beacons","UK","Green Man Festival",0,1
+"752","18/8/2017",8,"Philadelphia","PA","Philadelphia Folk Festival",0.183302613264875,0.242857142857143
+"753","19/8/2017",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"754","19/8/2017",8,"Brecon Beacons","UK","Green Man Festival",0,1
+"755","19/8/2017",8,"Philadelphia","PA","Philadelphia Folk Festival",0.183302613264875,0.242857142857143
+"756","19/8/2017",8,"Wantagh","NY","Billboard Hot 100 Festival",0,1
+"757","20/8/2017",8,"New York","NY","Lincoln Centeräó»s Mostly Mozart Festival",0.182417177907345,0.0714285714285714
+"758","20/8/2017",8,"Brecon Beacons","UK","Green Man Festival",0,1
+"759","20/8/2017",8,"Philadelphia","PA","Philadelphia Folk Festival",0.183302613264875,0.242857142857143
+"760","20/8/2017",8,"Wantagh","NY","Billboard Hot 100 Festival",0,1
+"761","23/8/2017",8,"Nashville","TN","ACM Honors Ceremony",0.218164218376106,-0.0535714285714286
+"762","24/8/2017",8,"Fayetteville","AR","Fayetteville Roots Festival",0,1
+"763","24/8/2017",8,"Arrington","VA","Locknäó» Music Festival",0,1
+"764","25/8/2017",8,"Fayetteville","AR","Fayetteville Roots Festival",0,1
+"765","25/8/2017",8,"Arrington","VA","Locknäó» Music Festival",0,1
+"766","25/8/2017",8,"Nashville","TN","DIY Musician Conference",0.229059484068451,-0.425
+"767","25/8/2017",8,"Reading","UK","Reading and Leeds Festivals",0,1
+"768","26/8/2017",8,"Fayetteville","AR","Fayetteville Roots Festival",0,1
+"769","26/8/2017",8,"Arrington","VA","Locknäó» Music Festival",0,1
+"770","26/8/2017",8,"Nashville","TN","DIY Musician Conference",0.229059484068451,-0.425
+"771","26/8/2017",8,"Reading","UK","Reading and Leeds Festivals",0,1
+"772","26/8/2017",8,"Brooklyn","NY","Afropunk Fest Brooklyn",0.275665323497244,0.175
+"773","26/8/2017",8,"Portland","OR","MusicfestNW",0,1
+"774","27/8/2017",8,"Fayetteville","AR","Fayetteville Roots Festival",0,1
+"775","27/8/2017",8,"Arrington","VA","Locknäó» Music Festival",0,1
+"776","27/8/2017",8,"Nashville","TN","DIY Musician Conference",0.229059484068451,-0.425
+"777","27/8/2017",8,"Reading","UK","Reading and Leeds Festivals",0,1
+"778","27/8/2017",8,"Brooklyn","NY","Afropunk Fest Brooklyn",0.275665323497244,0.175
+"779","27/8/2017",8,"Portland","OR","MusicfestNW",0,1
+"780","27/8/2017",8,"Black Rock Desert","NV","Burning Man",0,1
+"781","27/8/2017",8,"Inglewood","CA","MTV Video Music Awards",0,1
+"782","28/8/2017",8,"Black Rock Desert","NV","Burning Man",0,1
+"783","28/8/2017",8,"Queens","NY","US Open (Tennis)",0.0700608089956655,0.101876716283584
+"784","29/8/2017",8,"Black Rock Desert","NV","Burning Man",0,1
+"785","29/8/2017",8,"Queens","NY","US Open (Tennis)",0.0700608089956655,0.101876716283584
+"786","30/8/2017",8,"Black Rock Desert","NV","Burning Man",0,1
+"787","30/8/2017",8,"Queens","NY","US Open (Tennis)",0.0700608089956655,0.101876716283584
+"788","30/8/2017",8,"Telluride","CO","Telluride Film Festival",0.0176458786805273,0.932142857142857
+"789","30/8/2017",8,"Charleston","SC","Charleston Music Confab",0.12485082754956,0.675
+"790","31/8/2017",8,"Black Rock Desert","NV","Burning Man",0,1
+"791","31/8/2017",8,"Queens","NY","US Open (Tennis)",0.0700608089956655,0.101876716283584
+"792","31/8/2017",8,"Telluride","CO","Telluride Film Festival",0.0176458786805273,0.932142857142857
+"793","31/8/2017",8,"Charleston","SC","Charleston Music Confab",0.12485082754956,0.675
+"794","1/9/17",9,"Black Rock Desert","NV","Burning Man",0,1
+"795","1/9/17",9,"Queens","NY","US Open (Tennis)",0.0700608089956655,0.101876716283584
+"796","1/9/17",9,"Telluride","CO","Telluride Film Festival",0.0176458786805273,0.932142857142857
+"797","1/9/17",9,"Charleston","SC","Charleston Music Confab",0.12485082754956,0.675
+"798","1/9/17",9,"Miami","FL","Coast 2 Coast Convention",0.215408252763122,0.242857142857143
+"799","1/9/17",9,"Detroit","MI","Detroit Jazz Festival",0.101431319165342,0.982142857142857
+"800","1/9/17",9,"Seattle","WA","Bumbershoot Music & Arts Festival",0.143377637535723,0.989285714285714
+"801","1/9/17",9,"New York","NY","Electric Zoo",0.300455488952183,-0.539285714285714
+"802","1/9/17",9,"Los Angeles","CA","Los Angeles Timesäó» The Taste",0.336326535405977,-0.4
+"803","1/9/17",9,"Chicago","IL","North Coast Music Festival",0.279177046545127,0.435714285714286
+"804","2/9/17",9,"Black Rock Desert","NV","Burning Man",0,1
+"805","2/9/17",9,"Queens","NY","US Open (Tennis)",0.0700608089956655,0.101876716283584
+"806","2/9/17",9,"Telluride","CO","Telluride Film Festival",0.0176458786805273,0.932142857142857
+"807","2/9/17",9,"Charleston","SC","Charleston Music Confab",0.12485082754956,0.675
+"808","2/9/17",9,"Miami","FL","Coast 2 Coast Convention",0.215408252763122,0.242857142857143
+"809","2/9/17",9,"Detroit","MI","Detroit Jazz Festival",0.101431319165342,0.982142857142857
+"810","2/9/17",9,"Seattle","WA","Bumbershoot Music & Arts Festival",0.143377637535723,0.989285714285714
+"811","2/9/17",9,"New York","NY","Electric Zoo",0.300455488952183,-0.539285714285714
+"812","2/9/17",9,"Los Angeles","CA","Los Angeles Timesäó» The Taste",0.336326535405977,-0.4
+"813","2/9/17",9,"Chicago","IL","North Coast Music Festival",0.279177046545127,0.435714285714286
+"814","2/9/17",9,"Philadelphia","PA","Made In America Festival",0.13238768150289,0.278571428571429
+"815","2/9/17",9,"Washington","DC","National Book Festival",0.0386334171517779,0.571428571428571
+"816","3/9/17",9,"Black Rock Desert","NV","Burning Man",0,1
+"817","3/9/17",9,"Queens","NY","US Open (Tennis)",0.0700608089956655,0.101876716283584
+"818","3/9/17",9,"Telluride","CO","Telluride Film Festival",0.0176458786805273,0.932142857142857
+"819","3/9/17",9,"Charleston","SC","Charleston Music Confab",0.12485082754956,0.675
+"820","3/9/17",9,"Miami","FL","Coast 2 Coast Convention",0.215408252763122,0.242857142857143
+"821","3/9/17",9,"Detroit","MI","Detroit Jazz Festival",0.101431319165342,0.982142857142857
+"822","3/9/17",9,"Seattle","WA","Bumbershoot Music & Arts Festival",0.143377637535723,0.989285714285714
+"823","3/9/17",9,"New York","NY","Electric Zoo",0.300455488952183,-0.539285714285714
+"824","3/9/17",9,"Los Angeles","CA","Los Angeles Timesäó» The Taste",0.336326535405977,-0.4
+"825","3/9/17",9,"Chicago","IL","North Coast Music Festival",0.279177046545127,0.435714285714286
+"826","3/9/17",9,"Philadelphia","PA","Made In America Festival",0.13238768150289,0.278571428571429
+"827","3/9/17",9,"Milwaukee","WI","Big Gig BBQ",0.208011553653613,0.721428571428571
+"828","3/9/17",9,"Milwaukee","WI","Big Gig BBQ",0.208011553653613,0.721428571428571
+"829","4/9/17",9,"Black Rock Desert","NV","Burning Man",0,1
+"830","4/9/17",9,"Queens","NY","US Open (Tennis)",0.0700608089956655,0.101876716283584
+"831","4/9/17",9,"Telluride","CO","Telluride Film Festival",0.0176458786805273,0.932142857142857
+"832","4/9/17",9,"Miami","FL","Coast 2 Coast Convention",0.215408252763122,0.242857142857143
+"833","4/9/17",9,"Detroit","MI","Detroit Jazz Festival",0.101431319165342,0.982142857142857
+"834","5/9/17",9,"Queens","NY","US Open (Tennis)",0.0700608089956655,0.101876716283584
+"835","5/9/17",9,"Austin","TX","Radio Show",0.218152353702699,-0.296428571428571
+"836","5/9/17",9,"London","UK","AIM Independent Music Awards",0.159387213354316,0.571428571428571
+"837","6/9/17",9,"Queens","NY","US Open (Tennis)",0.0700608089956655,0.101876716283584
+"838","6/9/17",9,"Austin","TX","Radio Show",0.218152353702699,-0.296428571428571
+"839","7/9/17",9,"Queens","NY","US Open (Tennis)",0.0700608089956655,0.101876716283584
+"840","7/9/17",9,"Austin","TX","Radio Show",0.218152353702699,-0.296428571428571
+"841","7/9/17",9,"New York","NY","New York Fashion Week (Spring/Summer 2018)",0.22699510052057,0.0678571428571429
+"842","7/9/17",9,"Isle of Wight","UK","Bestival",5.91342954337626e-17,1
+"843","7/9/17",9,"Las Vegas","NV","Big Blues Bender",0.291874017528063,-0.0964285714285714
+"844","7/9/17",9,"Raleigh","NC","Hopscotch Music Festival",0.168570564167561,0.571428571428571
+"845","7/9/17",9,"Foxborough","MA","NFL Season Kickoff Game",0,1
+"846","7/9/17",9,"Los Angeles","CA","Varietyäó»s Entertainment & Technology Summit",0.290248572646704,0.0285714285714286
+"847","8/9/17",9,"Queens","NY","US Open (Tennis)",0.0700608089956655,0.101876716283584
+"848","8/9/17",9,"Austin","TX","Radio Show",0.218152353702699,-0.296428571428571
+"849","8/9/17",9,"New York","NY","New York Fashion Week (Spring/Summer 2018)",0.22699510052057,0.0678571428571429
+"850","8/9/17",9,"Isle of Wight","UK","Bestival",0,1
+"851","8/9/17",9,"Las Vegas","NV","Big Blues Bender",0.291874017528063,-0.0964285714285714
+"852","8/9/17",9,"Raleigh","NC","Hopscotch Music Festival",0.168570564167561,0.571428571428571
+"853","8/9/17",9,"Dana Point","CA","Ohana Music Festival",0.137301373355531,0.996428571428571
+"854","9/9/17",9,"Queens","NY","US Open (Tennis)",0.0700608089956655,0.101876716283584
+"855","9/9/17",9,"New York","NY","New York Fashion Week (Spring/Summer 2018)",0.22699510052057,0.0678571428571429
+"856","9/9/17",9,"Isle of Wight","UK","Bestival",5.91342954337626e-17,1
+"857","9/9/17",9,"Las Vegas","NV","Big Blues Bender",0.291874017528063,-0.0964285714285714
+"858","9/9/17",9,"Raleigh","NC","Hopscotch Music Festival",0.168570564167561,0.571428571428571
+"859","9/9/17",9,"Dana Point","CA","Ohana Music Festival",0.137301373355531,0.996428571428571
+"860","9/9/17",9,"San Francisco","CA","West Coast Songwriters Conference",0.163564375364412,0.225
+"861","10/9/17",9,"Queens","NY","US Open (Tennis)",0.0700608089956655,0.101876716283584
+"862","10/9/17",9,"New York","NY","New York Fashion Week (Spring/Summer 2018)",0.22699510052057,0.0678571428571429
+"863","10/9/17",9,"Isle of Wight","UK","Bestival",0,1
+"864","10/9/17",9,"Las Vegas","NV","Big Blues Bender",0.291874017528063,-0.0964285714285714
+"865","10/9/17",9,"Raleigh","NC","Hopscotch Music Festival",0.168570564167561,0.571428571428571
+"866","10/9/17",9,"Dana Point","CA","Ohana Music Festival",0.137301373355531,0.996428571428571
+"867","10/9/17",9,"San Francisco","CA","West Coast Songwriters Conference",0.163564375364412,0.225
+"868","11/9/17",9,"New York","NY","New York Fashion Week (Spring/Summer 2018)",0.22699510052057,0.0678571428571429
+"869","11/9/17",9,"Brooklyn","NY","Brooklyn Book Festival",0.157174778219474,0.432142857142857
+"870","12/9/17",9,"New York","NY","New York Fashion Week (Spring/Summer 2018)",0.22699510052057,0.0678571428571429
+"871","12/9/17",9,"Brooklyn","NY","Brooklyn Book Festival",0.157174778219474,0.432142857142857
+"872","12/9/17",9,"Nashville","TN","Americana Music Festival and Conference",0.194715743135677,0.564285714285714
+"873","13/9/2017",9,"New York","NY","New York Fashion Week (Spring/Summer 2018)",0.22699510052057,0.0678571428571429
+"874","13/9/2017",9,"Brooklyn","NY","Brooklyn Book Festival",0.157174778219474,0.432142857142857
+"875","13/9/2017",9,"Nashville","TN","Americana Music Festival and Conference",0.194715743135677,0.564285714285714
+"876","13/9/2017",9,"Montreal","QC","POP Montreal International Music Festival",0,1
+"877","13/9/2017",9,"Nashville","TN","Americana Honors & Awards",0.218163746189698,0.178571428571429
+"878","13/9/2017",9,"New York","NY","Intelligence Squared U.S. Fall Season Opening Debate",0.41883534712821,-0.375
+"879","14/9/2017",9,"New York","NY","New York Fashion Week (Spring/Summer 2018)",0.22699510052057,0.0678571428571429
+"880","14/9/2017",9,"Brooklyn","NY","Brooklyn Book Festival",0.157174778219474,0.432142857142857
+"881","14/9/2017",9,"Nashville","TN","Americana Music Festival and Conference",0.194715743135677,0.564285714285714
+"882","14/9/2017",9,"Montreal","QC","POP Montreal International Music Festival",0,1
+"883","14/9/2017",9,"London","UK","Mercury Prize äóÖAlbums of the Yearäó»",0.200412767444682,-0.346428571428571
+"884","15/9/2017",9,"Brooklyn","NY","Brooklyn Book Festival",0.157174778219474,0.432142857142857
+"885","15/9/2017",9,"Nashville","TN","Americana Music Festival and Conference",0.194715743135677,0.564285714285714
+"886","15/9/2017",9,"Montreal","QC","POP Montreal International Music Festival",0,1
+"887","15/9/2017",9,"Bristol","VA","Bristol Rhythm and Roots Reunion",1.48916548874733e-18,1
+"888","15/9/2017",9,"Chicago","IL","Riot Fest",0.21474282058149,-0.332142857142857
+"889","15/9/2017",9,"Queens","NY","The Meadows Music and Arts Festival",0.352076537749179,0.7
+"890","16/9/2017",9,"Brooklyn","NY","Brooklyn Book Festival",0.157174778219474,0.432142857142857
+"891","16/9/2017",9,"Nashville","TN","Americana Music Festival and Conference",0.194715743135677,0.564285714285714
+"892","16/9/2017",9,"Montreal","QC","POP Montreal International Music Festival",0,1
+"893","16/9/2017",9,"Bristol","VA","Bristol Rhythm and Roots Reunion",1.48916548874733e-18,1
+"894","16/9/2017",9,"Chicago","IL","Riot Fest",0.21474282058149,-0.332142857142857
+"895","16/9/2017",9,"Queens","NY","The Meadows Music and Arts Festival",0.352076537749179,0.7
+"896","16/9/2017",9,"Atlanta","GA","Music Midtown",0.156405108614417,0.625
+"897","16/9/2017",9,"Los Angeles","CA","Creative Arts Emmy Awards",0.151559832192314,0.0464285714285714
+"898","16/9/2017",9,"Burgettstown","PA","Farm Aid",0,NA
+"899","17/9/2017",9,"Brooklyn","NY","Brooklyn Book Festival",0.157174778219474,0.432142857142857
+"900","17/9/2017",9,"Nashville","TN","Americana Music Festival and Conference",0.194715743135677,0.564285714285714
+"901","17/9/2017",9,"Montreal","QC","POP Montreal International Music Festival",0,1
+"902","17/9/2017",9,"Bristol","VA","Bristol Rhythm and Roots Reunion",1.48916548874733e-18,1
+"903","17/9/2017",9,"Chicago","IL","Riot Fest",0.21474282058149,-0.332142857142857
+"904","17/9/2017",9,"Queens","NY","The Meadows Music and Arts Festival",0.352076537749179,0.7
+"905","17/9/2017",9,"Atlanta","GA","Music Midtown",0.156405108614417,0.625
+"906","17/9/2017",9,"Brooklyn","NY","IFP Conference: Screen Forward",0.252950395763268,-0.217857142857143
+"907","17/9/2017",9,"Los Angeles","CA","Primetime Emmy Awards",0.147577292661478,-0.117857142857143
+"908","18/9/2017",9,"Brooklyn","NY","IFP Conference: Screen Forward",0.252950395763268,-0.217857142857143
+"909","18/9/2017",9,"San Francisco","CA","TechCrunch Disrupt",0.267827530452452,-0.210902675815138
+"910","18/9/2017",9,"Toronto","ON","Polaris Music Prize Gala",0,1
+"911","19/9/2017",9,"Brooklyn","NY","IFP Conference: Screen Forward",0.252950395763268,-0.217857142857143
+"912","19/9/2017",9,"San Francisco","CA","TechCrunch Disrupt",0.267827530452452,-0.210902675815138
+"913","20/9/2017",9,"Brooklyn","NY","IFP Conference: Screen Forward",0.252950395763268,-0.217857142857143
+"914","20/9/2017",9,"San Francisco","CA","TechCrunch Disrupt",0.267827530452452,-0.210902675815138
+"915","21/9/2017",9,"Brooklyn","NY","IFP Conference: Screen Forward",0.252950395763268,-0.217857142857143
+"916","21/9/2017",9,"Dewey Beach","DE","Dewey Beach Music Conference",0,1
+"917","21/9/2017",9,"Los Angeles","CA","Electronic Music Awards",0.136318613306578,0.253571428571429
+"918","22/9/2017",9,"Dewey Beach","DE","Dewey Beach Music Conference",0,1
+"919","22/9/2017",9,"Atlanta","GA","Imagine Music Festival",0.173224406473569,0.996428571428571
+"920","22/9/2017",9,"Las Vegas","NV","Life Is Beautiful Festival",0.203161883851822,-0.232142857142857
+"921","23/9/2017",9,"Dewey Beach","DE","Dewey Beach Music Conference",0,1
+"922","23/9/2017",9,"Atlanta","GA","Imagine Music Festival",0.173224406473569,0.996428571428571
+"923","23/9/2017",9,"Las Vegas","NV","Life Is Beautiful Festival",0.203161883851822,-0.232142857142857
+"924","23/9/2017",9,"San Jose","CA","Alternative Press Expo",0,1
+"925","23/9/2017",9,"Louisville","KY","Bourbon & Beyond Festival",0.0921831682617873,0.875
+"926","23/9/2017",9,"Cincinnati","OH","Midpoint Music Festival",0.0652282749763324,1
+"927","23/9/2017",9,"Franklin","TN","Pilgrimage Music & Cultural Festival",0,1
+"928","23/9/2017",9,"Milwaukee","WI","Fromm Petfest",0.11684541435234,NA
+"929","24/9/2017",9,"Dewey Beach","DE","Dewey Beach Music Conference",0,1
+"930","24/9/2017",9,"Atlanta","GA","Imagine Music Festival",0.173224406473569,0.996428571428571
+"931","24/9/2017",9,"Las Vegas","NV","Life Is Beautiful Festival",0.203161883851822,-0.232142857142857
+"932","24/9/2017",9,"San Jose","CA","Alternative Press Expo",0,1
+"933","24/9/2017",9,"Louisville","KY","Bourbon & Beyond Festival",0.0921831682617873,0.875
+"934","24/9/2017",9,"Cincinnati","OH","Midpoint Music Festival",0.0652282749763324,1
+"935","24/9/2017",9,"Franklin","TN","Pilgrimage Music & Cultural Festival",0,1
+"936","25/9/2017",9,"New York","NY","New York Media Festival",0.098284463203328,0.207142857142857
+"937","26/9/2017",9,"New York","NY","New York Media Festival",0.098284463203328,0.207142857142857
+"938","26/9/2017",9,"Raleigh","NC","IBMAäó»s World of Bluegrass",0.116830759688642,-0.128571428571429
+"939","26/9/2017",9,"Louisville","KY","IdeaFestival",0.172229933410415,0.321428571428571
+"940","27/9/2017",9,"New York","NY","New York Media Festival",0.098284463203328,0.207142857142857
+"941","27/9/2017",9,"Raleigh","NC","IBMAäó»s World of Bluegrass",0.116830759688642,-0.128571428571429
+"942","27/9/2017",9,"Louisville","KY","IdeaFestival",0.172229933410415,0.321428571428571
+"943","27/9/2017",9,"Austin","TX","Southwest Regional Folk Alliance Conference",0.300984338713842,0.217857142857143
+"944","28/9/2017",9,"Raleigh","NC","IBMAäó»s World of Bluegrass",0.116830759688642,-0.128571428571429
+"945","28/9/2017",9,"Louisville","KY","IdeaFestival",0.172229933410415,0.321428571428571
+"946","28/9/2017",9,"Austin","TX","Southwest Regional Folk Alliance Conference",0.300984338713842,0.217857142857143
+"947","28/9/2017",9,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"948","28/9/2017",9,"Raleigh","NC","International Bluegrass Music Awards",0.214007356076467,0.960714285714286
+"949","29/9/2017",9,"Raleigh","NC","IBMAäó»s World of Bluegrass",0.116830759688642,-0.128571428571429
+"950","29/9/2017",9,"Austin","TX","Southwest Regional Folk Alliance Conference",0.300984338713842,0.217857142857143
+"951","29/9/2017",9,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"952","29/9/2017",9,"Las Vegas","NV","Route 91 Harvest Festival",0.203161883851822,-0.232142857142857
+"953","30/9/2017",9,"Raleigh","NC","IBMAäó»s World of Bluegrass",0.116830759688642,-0.128571428571429
+"954","30/9/2017",9,"Austin","TX","Southwest Regional Folk Alliance Conference",0.300984338713842,0.217857142857143
+"955","30/9/2017",9,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"956","30/9/2017",9,"Las Vegas","NV","Route 91 Harvest Festival",0.203161883851822,-0.232142857142857
+"957","30/9/2017",9,"New York","NY","Global Citizen Festival",0.0766390907929274,-0.125336172727173
+"958","30/9/2017",9,"New York","NY","Modern Sky Festival NYC",0.286572883366987,0.0428571428571429
+"959","1/10/17",10,"Austin","TX","Southwest Regional Folk Alliance Conference",0.300984338713842,0.217857142857143
+"960","1/10/17",10,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"961","1/10/17",10,"Las Vegas","NV","Route 91 Harvest Festival",0.203161883851822,-0.232142857142857
+"962","2/10/17",10,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"963","3/10/17",10,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"964","4/10/17",10,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"965","4/10/17",10,"Atlanta","GA","A3C Hip Hop Festival",0.115997706365511,0.532142857142857
+"966","4/10/17",10,"New York","NY","Mondo.NYC",0.247991672972174,-0.607142857142857
+"967","4/10/17",10,"Los Angeles","CA","Production Music Conference",0.319552166324015,-0.0178571428571429
+"968","5/10/17",10,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"969","5/10/17",10,"Atlanta","GA","A3C Hip Hop Festival",0.115997706365511,0.532142857142857
+"970","5/10/17",10,"New York","NY","Mondo.NYC",0.247991672972174,-0.607142857142857
+"971","5/10/17",10,"Los Angeles","CA","Production Music Conference",0.319552166324015,-0.0178571428571429
+"972","5/10/17",10,"New York","NY","New York Comic Con",0.156487551155913,0.217857142857143
+"973","5/10/17",10,"Westminster","CO","Durango Songwriters Expo",0,1
+"974","5/10/17",10,"New Orleans","LA","Ponderosa Stomp",0.302112539661347,-0.307142857142857
+"975","5/10/17",10,"New York","NY","News & Documentary Emmy Awards",0.29157074328826,-0.421428571428571
+"976","6/10/17",10,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"977","6/10/17",10,"Atlanta","GA","A3C Hip Hop Festival",0.115997706365511,0.532142857142857
+"978","6/10/17",10,"New York","NY","Mondo.NYC",0.247991672972174,-0.607142857142857
+"979","6/10/17",10,"Los Angeles","CA","Production Music Conference",0.319552166324015,-0.0178571428571429
+"980","6/10/17",10,"New York","NY","New York Comic Con",0.156487551155913,0.217857142857143
+"981","6/10/17",10,"Westminster","CO","Durango Songwriters Expo",0,1
+"982","6/10/17",10,"New Orleans","LA","Ponderosa Stomp",0.302112539661347,-0.307142857142857
+"983","6/10/17",10,"Austin","TX","Austin City Limits Music Festival weekend 1",0.181168094575893,0.685714285714286
+"984","6/10/17",10,"San Francisco","CA","Hardly Strictly Bluegrass",0.275444323712378,-0.117857142857143
+"985","6/10/17",10,"New York","NY","The New Yorker Festival",0.0683635429378777,0.210714285714286
+"986","6/10/17",10,"Aberdeen","MS","Bukka White Blues Festival",0,1
+"987","6/10/17",10,"Memphis","TN","MEMPHO Festival",0.156602819694718,0.167857142857143
+"988","7/10/17",10,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"989","7/10/17",10,"Atlanta","GA","A3C Hip Hop Festival",0.115997706365511,0.532142857142857
+"990","7/10/17",10,"New York","NY","Mondo.NYC",0.247991672972174,-0.607142857142857
+"991","7/10/17",10,"New York","NY","New York Comic Con",0.156487551155913,0.217857142857143
+"992","7/10/17",10,"Westminster","CO","Durango Songwriters Expo",0,1
+"993","7/10/17",10,"New Orleans","LA","Ponderosa Stomp",0.302112539661347,-0.307142857142857
+"994","7/10/17",10,"Austin","TX","Austin City Limits Music Festival weekend 1",0.181168094575893,0.685714285714286
+"995","7/10/17",10,"San Francisco","CA","Hardly Strictly Bluegrass",0.275444323712378,-0.117857142857143
+"996","7/10/17",10,"New York","NY","The New Yorker Festival",0.0683635429378777,0.210714285714286
+"997","7/10/17",10,"Aberdeen","MS","Bukka White Blues Festival",0,1
+"998","7/10/17",10,"Memphis","TN","MEMPHO Festival",0.156602819694718,0.167857142857143
+"999","8/10/17",10,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"1000","8/10/17",10,"Atlanta","GA","A3C Hip Hop Festival",0.115997706365511,0.532142857142857
+"1001","8/10/17",10,"New York","NY","Mondo.NYC",0.247991672972174,-0.607142857142857
+"1002","8/10/17",10,"New York","NY","New York Comic Con",0.156487551155913,0.217857142857143
+"1003","8/10/17",10,"Austin","TX","Austin City Limits Music Festival weekend 1",0.181168094575893,0.685714285714286
+"1004","8/10/17",10,"San Francisco","CA","Hardly Strictly Bluegrass",0.275444323712378,-0.117857142857143
+"1005","8/10/17",10,"New York","NY","The New Yorker Festival",0.0683635429378777,0.210714285714286
+"1006","9/10/17",10,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"1007","10/10/17",10,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"1008","10/10/17",10,"Los Angeles","CA","Digital Hollywood Fall",0.286724942246113,-0.264285714285714
+"1009","10/10/17",10,"Palm Desert","CA","Inc. 5000 Conference & Gala",6.18638169543844e-18,1
+"1010","11/10/17",10,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"1011","11/10/17",10,"Los Angeles","CA","Digital Hollywood Fall",0.286724942246113,-0.264285714285714
+"1012","11/10/17",10,"Palm Desert","CA","Inc. 5000 Conference & Gala",6.18638169543844e-18,1
+"1013","12/10/17",10,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"1014","12/10/17",10,"Los Angeles","CA","Digital Hollywood Fall",0.286724942246113,-0.264285714285714
+"1015","12/10/17",10,"Palm Desert","CA","Inc. 5000 Conference & Gala",6.18638169543844e-18,1
+"1016","12/10/17",10,"Joshua Tree","CA","Desert Daze",0,1
+"1017","12/10/17",10,"New York","NY","NYC Food & Wine Festival",0.218567970569446,-0.025
+"1018","13/10/2017",10,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"1019","13/10/2017",10,"Joshua Tree","CA","Desert Daze",0,1
+"1020","13/10/2017",10,"New York","NY","NYC Food & Wine Festival",0.218567970569446,-0.025
+"1021","13/10/2017",10,"Austin","TX","Austin City Limits Music Festival weekend 2",0.181168094575893,0.685714285714286
+"1022","14/10/2017",10,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"1023","14/10/2017",10,"Joshua Tree","CA","Desert Daze",0,1
+"1024","14/10/2017",10,"New York","NY","NYC Food & Wine Festival",0.218567970569446,-0.025
+"1025","14/10/2017",10,"Austin","TX","Austin City Limits Music Festival weekend 2",0.181168094575893,0.685714285714286
+"1026","14/10/2017",10,"Atlanta","GA","Afropunk Fest Atlanta",0.17322445932273,0.157142857142857
+"1027","15/10/2017",10,"New York","NY","New York Film Festival",0.0738658836287054,0.210714285714286
+"1028","15/10/2017",10,"Joshua Tree","CA","Desert Daze",0,1
+"1029","15/10/2017",10,"New York","NY","NYC Food & Wine Festival",0.218567970569446,-0.025
+"1030","15/10/2017",10,"Austin","TX","Austin City Limits Music Festival weekend 2",0.181168094575893,0.685714285714286
+"1031","15/10/2017",10,"Atlanta","GA","Afropunk Fest Atlanta",0.17322445932273,0.157142857142857
+"1032","15/10/2017",10,"Nashville","TN","IEBA Annual Conference",0.229059454391072,-0.242857142857143
+"1033","16/10/2017",10,"Nashville","TN","IEBA Annual Conference",0.229059454391072,-0.242857142857143
+"1034","16/10/2017",10,"Chicago","IL","Chicago Ideas Week",0.160279397295528,-0.185714285714286
+"1035","17/10/2017",10,"Nashville","TN","IEBA Annual Conference",0.229059454391072,-0.242857142857143
+"1036","17/10/2017",10,"Chicago","IL","Chicago Ideas Week",0.160279397295528,-0.185714285714286
+"1037","17/10/2017",10,"Nashville","TN","Gospel Music Association's Dove Awards",0.1440082527902,0.146428571428571
+"1038","17/10/2017",10,"San Francisco","CA","SF MusicTech Summit",0.256638928223492,-0.0642857142857143
+"1039","17/10/2017",10,"New York","NY","TJ Martell Foundationäó»s New York Honors Gala",0.242625156466392,0.278571428571429
+"1040","18/10/2017",10,"Chicago","IL","Chicago Ideas Week",0.160279397295528,-0.185714285714286
+"1041","18/10/2017",10,"New York","NY","International AES Convention",0.37817075069675,-0.282142857142857
+"1042","18/10/2017",10,"New York","NY","Little Kids Rock Benefit honoring Elvis Costello",0.216276037644793,-0.421428571428571
+"1043","19/10/2017",10,"Chicago","IL","Chicago Ideas Week",0.160279397295528,-0.185714285714286
+"1044","19/10/2017",10,"New York","NY","International AES Convention",0.37817075069675,-0.282142857142857
+"1045","19/10/2017",10,"Hillsborough","NC","Yep Roc 20",0,1
+"1046","20/10/2017",10,"Chicago","IL","Chicago Ideas Week",0.160279397295528,-0.185714285714286
+"1047","20/10/2017",10,"New York","NY","International AES Convention",0.37817075069675,-0.282142857142857
+"1048","20/10/2017",10,"Hillsborough","NC","Yep Roc 20",0,1
+"1049","20/10/2017",10,"Oakland","CA","NBA Season Tip Off",0,1
+"1050","21/10/2017",10,"Chicago","IL","Chicago Ideas Week",0.160279397295528,-0.185714285714286
+"1051","21/10/2017",10,"New York","NY","International AES Convention",0.37817075069675,-0.282142857142857
+"1052","21/10/2017",10,"Hillsborough","NC","Yep Roc 20",0,1
+"1053","21/10/2017",10,"New York","NY","The IMAs Present: The Independent Music Party",0.334571435994854,0.0678571428571429
+"1054","22/10/2017",10,"Chicago","IL","Chicago Ideas Week",0.160279397295528,-0.185714285714286
+"1055","22/10/2017",10,"Washington D.C.","Washington D.C.","Kennedy Center Mark Twain Prize for American Humor",0,1
+"1056","23/10/2017",10,"New York","NY","Fast Company Innovation Festival",0.251276729935358,-0.0714285714285714
+"1057","24/10/2017",10,"New York","NY","Fast Company Innovation Festival",0.251276729935358,-0.0714285714285714
+"1058","25/10/2017",10,"New York","NY","Fast Company Innovation Festival",0.251276729935358,-0.0714285714285714
+"1059","25/10/2017",10,"New York","NY","Inc. Womenäó»s Summit",0.0947313293292088,-0.303571428571428
+"1060","26/10/2017",10,"New York","NY","Fast Company Innovation Festival",0.251276729935358,-0.0714285714285714
+"1061","26/10/2017",10,"San Antonio","TX","College Music Society National Conference",0.0696189353095219,0.996428571428571
+"1062","27/10/2017",10,"New York","NY","Fast Company Innovation Festival",0.251276729935358,-0.0714285714285714
+"1063","27/10/2017",10,"San Antonio","TX","College Music Society National Conference",0.0696189353095219,0.996428571428571
+"1064","27/10/2017",10,"New Orleans","LA","Voodoo Music + Arts Experience",0.18039472624204,0.342857142857143
+"1065","28/10/2017",10,"San Antonio","TX","College Music Society National Conference",0.0696189353095219,0.996428571428571
+"1066","28/10/2017",10,"New Orleans","LA","Voodoo Music + Arts Experience",0.18039472624204,0.342857142857143
+"1067","28/10/2017",10,"New York","NY","Producers Guild of Americaäó»s Produced By NY Conference",0.335695313679816,-0.267857142857143
+"1068","29/10/2017",10,"New Orleans","LA","Voodoo Music + Arts Experience",0.18039472624204,0.342857142857143
+"1069","1/11/17",11,"Beverly Hills","CA","Varietyäó»s Inclusion Summit",0.116061152675856,0.442857142857143
+"1070","3/11/17",11,"Los Angeles","CA","SummitLA",0.153931097132881,-0.235714285714286
+"1071","4/11/17",11,"Los Angeles","CA","SummitLA",0.153931097132881,-0.235714285714286
+"1072","5/11/17",11,"Los Angeles","CA","SummitLA",0.153931097132881,-0.235714285714286
+"1073","5/11/17",11,"Nashville","TN","SESAC Nashville Music Awards",0.244580261054043,0.489285714285714
+"1074","6/11/17",11,"Los Angeles","CA","SummitLA",0.153931097132881,-0.235714285714286
+"1075","6/11/17",11,"Nashville","TN","ASCAP Country Music Awards",0.191183994142614,0.346428571428571
+"1076","7/11/17",11,"New York","NY","New York Comedy Festival",0.0861658320518591,0.378571428571429
+"1077","7/11/17",11,"Los Angeles","CA","GameSoundCon",0.228723793505506,-0.428571428571428
+"1078","7/11/17",11,"Nashville","TN","BMI Country Awards",0.14332823372107,-0.225
+"1079","8/11/17",11,"New York","NY","New York Comedy Festival",0.0861658320518591,0.378571428571429
+"1080","8/11/17",11,"Los Angeles","CA","GameSoundCon",0.228723793505506,-0.428571428571428
+"1081","8/11/17",11,"Nashville","TN","CMA Awards",0.181303823968682,-0.178571428571429
+"1082","9/11/17",11,"New York","NY","New York Comedy Festival",0.0861658320518591,0.378571428571429
+"1083","9/11/17",11,"Los Angeles","CA","AFI FEST",0.249846511036876,-0.271428571428571
+"1084","9/11/17",11,"New York","NY","DOC NYC film festival",0.176000233911955,0.0678571428571429
+"1085","10/11/17",11,"New York","NY","New York Comedy Festival",0.0861658320518591,0.378571428571429
+"1086","10/11/17",11,"Los Angeles","CA","AFI FEST",0.249846511036876,-0.271428571428571
+"1087","10/11/17",11,"New York","NY","DOC NYC film festival",0.176000233911955,0.0678571428571429
+"1088","10/11/17",11,"McDade","TX","Sound on Sound Festival",0,1
+"1089","10/11/17",11,"Orlando","FL","Electric Daisy Carnival Orlando",0.195343257404048,-0.0857142857142857
+"1090","11/11/17",11,"New York","NY","New York Comedy Festival",0.0861658320518591,0.378571428571429
+"1091","11/11/17",11,"Los Angeles","CA","AFI FEST",0.249846511036876,-0.271428571428571
+"1092","11/11/17",11,"New York","NY","DOC NYC film festival",0.176000233911955,0.0678571428571429
+"1093","11/11/17",11,"McDade","TX","Sound on Sound Festival",0,1
+"1094","11/11/17",11,"Orlando","FL","Electric Daisy Carnival Orlando",0.195343257404048,-0.0857142857142857
+"1095","11/11/17",11,"San Diego","CA","San Diego Music Thing",0.131809387412186,0.346428571428571
+"1096","11/11/17",11,"Los Angeles","CA","Academy of Motion Picture Arts and Sciencesäó» Governors Awards",0.208747994160713,0.203571428571429
+"1097","12/11/17",11,"New York","NY","New York Comedy Festival",0.0861658320518591,0.378571428571429
+"1098","12/11/17",11,"Los Angeles","CA","AFI FEST",0.249846511036876,-0.271428571428571
+"1099","12/11/17",11,"New York","NY","DOC NYC film festival",0.176000233911955,0.0678571428571429
+"1100","12/11/17",11,"McDade","TX","Sound on Sound Festival",0,1
+"1101","12/11/17",11,"San Diego","CA","San Diego Music Thing",0.131809387412186,0.346428571428571
+"1102","12/11/17",11,"Dallas","TX","NAfME National In Service Conference",0,1
+"1103","13/11/2017",11,"Los Angeles","CA","AFI FEST",0.249846511036876,-0.271428571428571
+"1104","13/11/2017",11,"New York","NY","DOC NYC film festival",0.176000233911955,0.0678571428571429
+"1105","13/11/2017",11,"Dallas","TX","NAfME National In Service Conference",0,1
+"1106","14/11/2017",11,"Los Angeles","CA","AFI FEST",0.249846511036876,-0.271428571428571
+"1107","14/11/2017",11,"New York","NY","DOC NYC film festival",0.176000233911955,0.0678571428571429
+"1108","14/11/2017",11,"Dallas","TX","NAfME National In Service Conference",0,1
+"1109","14/11/2017",11,"Beverly Hills","CA","Billboard Touring Conference & Awards",0.163693018431908,0.589285714285714
+"1110","15/11/2017",11,"Los Angeles","CA","AFI FEST",0.249846511036876,-0.271428571428571
+"1111","15/11/2017",11,"New York","NY","DOC NYC film festival",0.176000233911955,0.0678571428571429
+"1112","15/11/2017",11,"Dallas","TX","NAfME National In Service Conference",0,1
+"1113","15/11/2017",11,"Beverly Hills","CA","Billboard Touring Conference & Awards",0.163693018431908,0.589285714285714
+"1114","15/11/2017",11,"Las Vegas","NV","Latin Recording Academy Person of the Year Gala",0.387284032897586,-0.05
+"1115","15/11/2017",11,"New York","NY","National Book Awards Ceremony",0.370907334345934,-0.117857142857143
+"1116","15/11/2017",11,"Washington","DC","The Library of Congress Gershwin Prize for Popular Song",0.249494023423537,-0.00357142857142857
+"1117","16/11/2017",11,"Los Angeles","CA","AFI FEST",0.249846511036876,-0.271428571428571
+"1118","16/11/2017",11,"New York","NY","DOC NYC film festival",0.176000233911955,0.0678571428571429
+"1119","16/11/2017",11,"Los Angeles","CA","Hollywood Music in Media Awards",0.117698592498807,0.514285714285714
+"1120","16/11/2017",11,"Las Vegas","NV","Latin GRAMMY Awards",0.281565793306015,-0.132142857142857
+"1121","18/11/2017",11,"Los Angeles","CA","Vulture Festival LA",0.225492825488773,0.164285714285714
+"1122","19/11/2017",11,"Los Angeles","CA","Vulture Festival LA",0.225492825488773,0.164285714285714
+"1123","19/11/2017",11,"Los Angeles","CA","American Music Awards",0.187173075137261,0.246428571428571
+"1124","23/11/2017",11,"New York","NY","Macyäó»s Thanksgiving Day Parade",0.223708863409965,-0.467857142857143
+"1125","26/11/2017",11,"Hollywood","CA","Annual Hollywood Christmas Parade",0.185710225994994,0.1
+"1126","27/11/2017",11,"New York","NY","Gotham Independent Film Awards",0.197882810722247,0.0142857142857143
+"1127","29/11/2017",11,"New York","NY","Rockefeller Center Christmas Tree Lighting",0.411110904595723,-0.396428571428571
+"1128","29/11/2017",11,"Beverly Hills","CA","Varietyäó»s Innovate: AI Analytics & VR",0.0881967154968652,0.442857142857143
+"1129","30/11/2017",11,"Los Angeles","CA","Billboard Women in Music",0.270561962851617,-0.0214285714285714
+"1130","30/11/2017",11,"Washington","DC","National Christmas Tree Lighting",0.21844167011338,0.0642857142857143
+"1131","3/12/17",12,"Los Angeles","CA","Caucus for Producers Writers and Directors Awards",0.176458919742576,-0.0428571428571429
+"1132","3/12/17",12,"Washington","DC","Kennedy Center Honors",0.268656135915158,0.264285714285714
+"1133","4/12/17",12,"Hollywood","CA","SyncSummit Hollywood",0.131241376930956,0.2
+"1134","5/12/17",12,"Hollywood","CA","SyncSummit Hollywood",0.131241376930956,0.2
+"1135","6/12/17",12,"Marina Del Rey","CA","Content Protection Summit",0,1
+"1136","7/12/17",12,"Miami Beach","FL","Art Basel",0.145968735020148,0.467857142857143
+"1137","7/12/17",12,"Aspen","CO","Aspen Live Conference",0.137301427462105,0.764285714285714
+"1138","7/12/17",12,"Boston","MA","Boston Music Awards",0.0176147769071923,0.721428571428571
+"1139","8/12/17",12,"Miami Beach","FL","Art Basel",0.145968735020148,0.467857142857143
+"1140","8/12/17",12,"Aspen","CO","Aspen Live Conference",0.137301427462105,0.764285714285714
+"1141","9/12/17",12,"Miami Beach","FL","Art Basel",0.145968735020148,0.467857142857143
+"1142","9/12/17",12,"Aspen","CO","Aspen Live Conference",0.137301427462105,0.764285714285714
+"1143","10/12/17",12,"Miami Beach","FL","Art Basel",0.145968735020148,0.467857142857143
+"1144","10/12/17",12,"Las Vegas","NV","XLIVE",0.135041940259221,-0.453571428571428
+"1145","11/12/17",12,"Las Vegas","NV","XLIVE",0.135041940259221,-0.453571428571428
+"1146","12/12/17",12,"Las Vegas","NV","XLIVE",0.135041940259221,-0.453571428571428
+"1147","13/12/2017",12,"Las Vegas","NV","XLIVE",0.135041940259221,-0.453571428571428
+"1148","17/12/2017",12,"New York","NY","CNN Heroes: An All Star Tribute",0.26741568019422,-0.360714285714286
+"1149","29/12/2017",12,"South Lake Tahoe","CA","Snowglobe Festival",7.42365803452899e-18,1
+"1150","30/12/2017",12,"South Lake Tahoe","CA","Snowglobe Festival",7.42365803452899e-18,1
+"1151","31/12/2017",12,"South Lake Tahoe","CA","Snowglobe Festival",7.42365803452899e-18,1
